@@ -1,0 +1,1148 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABS	bytecodes.h	/^  ABS                           = 6,    \/\/!< Absolute       r = fabs(x)$/;"	e	enum:__anon21
+ACOS	bytecodes.h	/^  ACOS                          = 15,   \/\/!<$/;"	e	enum:__anon21
+ADD	bytecodes.h	/^  ADD                 = 2,    \/\/ VM       add two strings$/;"	e	enum:__anon17
+ADDRESS	bytecodes.h	/^  ADDRESS       = 13,$/;"	e	enum:__anon3
+ADR	bytecodes.h	1687;"	d
+ALLOW_PULSE	bytecodes.h	/^  ALLOW_PULSE   = 17,$/;"	e	enum:__anon3
+ANY_BUTTON	bytecodes.h	/^  ANY_BUTTON                    = 7,$/;"	e	enum:__anon20
+ARRAY_SUBCODE	bytecodes.h	/^ARRAY_SUBCODE;$/;"	t	typeref:enum:__anon13
+ARRAY_SUBCODES	bytecodes.h	/^  ARRAY_SUBCODES$/;"	e	enum:__anon13
+ARROW_ICON	bytecodes.h	/^  ARROW_ICON                    = 4,    \/\/!< "8x12_miniArrows.bmp"$/;"	e	enum:__anon25
+ASIN	bytecodes.h	/^  ASIN                          = 14,   \/\/!<$/;"	e	enum:__anon21
+ATAN	bytecodes.h	/^  ATAN                          = 16,   \/\/!<$/;"	e	enum:__anon21
+A_ICON_NO	bytecodes.h	/^A_ICON_NO;$/;"	t	typeref:enum:__anon30
+A_ICON_NOS	bytecodes.h	/^  A_ICON_NOS$/;"	e	enum:__anon30
+Addr	lmstypes.h	/^  IMINDEX Addr;                         \/\/!< Offset to breakpoint address from image start$/;"	m	struct:__anon47
+BACK_BUTTON	bytecodes.h	/^  BACK_BUTTON                   = 6,$/;"	e	enum:__anon20
+BLACKCOLOR	bytecodes.h	/^  BLACKCOLOR   = 1,$/;"	e	enum:__anon41
+BLANK	bytecodes.h	/^  BLANK         =  3,$/;"	e	enum:__anon40
+BLOCKHeader	bytecodes.h	1657;"	d
+BLUE	bytecodes.h	/^  BLUE          =  2,$/;"	e	enum:__anon40
+BLUECOLOR	bytecodes.h	/^  BLUECOLOR    = 2,$/;"	e	enum:__anon41
+BMPFILE	bytecodes.h	/^  BMPFILE       = 28,$/;"	e	enum:__anon11
+BOTTOM	line.cpp	/^	BOTTOM,$/;"	e	enum:Direction	file:
+BOTTOM	main.cpp	/^	BOTTOM,$/;"	e	enum:Direction	file:
+BREAK	bytecodes.h	/^  BREAK               = 0,$/;"	e	enum:__anon16
+BRIGHTNESS_ADJ	line.cpp	18;"	d	file:
+BRIGHTNESS_ADJ	main.cpp	142;"	d	file:
+BROWSE	bytecodes.h	/^  BROWSE        = 14,$/;"	e	enum:__anon11
+BROWSERTYPE	bytecodes.h	/^BROWSERTYPE;$/;"	t	typeref:enum:__anon23
+BROWSERTYPES	bytecodes.h	/^  BROWSERTYPES                          \/\/!< Maximum font types supported by the VM$/;"	e	enum:__anon23
+BROWSE_CACHE	bytecodes.h	/^  BROWSE_CACHE                  = 2,    \/\/!< Browser for cached \/ recent files$/;"	e	enum:__anon23
+BROWSE_FILES	bytecodes.h	/^  BROWSE_FILES                  = 3,    \/\/!< Browser for files$/;"	e	enum:__anon23
+BROWSE_FOLDERS	bytecodes.h	/^  BROWSE_FOLDERS                = 0,    \/\/!< Browser for folders$/;"	e	enum:__anon23
+BROWSE_FOLDS_FILES	bytecodes.h	/^  BROWSE_FOLDS_FILES            = 1,    \/\/!< Browser for folders and files$/;"	e	enum:__anon23
+BTTYPE	bytecodes.h	/^BTTYPE;$/;"	t	typeref:enum:__anon31
+BTTYPES	bytecodes.h	/^  BTTYPES$/;"	e	enum:__anon31
+BTTYPE_BRICK	bytecodes.h	/^  BTTYPE_BRICK                  = 5,    \/\/!< Bluetooth type BRICK$/;"	e	enum:__anon31
+BTTYPE_PC	bytecodes.h	/^  BTTYPE_PC                     = 3,    \/\/!< Bluetooth type PC$/;"	e	enum:__anon31
+BTTYPE_PHONE	bytecodes.h	/^  BTTYPE_PHONE                  = 4,    \/\/!< Bluetooth type PHONE$/;"	e	enum:__anon31
+BTTYPE_UNKNOWN	bytecodes.h	/^  BTTYPE_UNKNOWN                = 6,    \/\/!< Bluetooth type UNKNOWN$/;"	e	enum:__anon31
+BUSY	bytecodes.h	/^  BUSY          = 1,                    \/\/!< Busy - try again$/;"	e	enum:__anon35
+BUTTONTYPE	bytecodes.h	/^BUTTONTYPE;$/;"	t	typeref:enum:__anon20
+BUTTONTYPES	bytecodes.h	/^  BUTTONTYPES                   = 8$/;"	e	enum:__anon20
+BYTECODES_H_	bytecodes.h	31;"	d
+BYTECODE_VERSION	bytecodes.h	33;"	d
+BYTEToBytes	bytecodes.h	1646;"	d
+CALLPAR_DATA16	bytecodes.h	1716;"	d
+CALLPAR_DATA32	bytecodes.h	1717;"	d
+CALLPAR_DATA8	bytecodes.h	1715;"	d
+CALLPAR_DATAF	bytecodes.h	1718;"	d
+CALLPAR_IN	bytecodes.h	1711;"	d
+CALLPAR_OUT	bytecodes.h	1712;"	d
+CALLPAR_STRING	bytecodes.h	1719;"	d
+CALLPAR_TYPE	bytecodes.h	1714;"	d
+CAL_DEFAULT	bytecodes.h	/^  CAL_DEFAULT     = 4,$/;"	e	enum:__anon9
+CAL_MAX	bytecodes.h	/^  CAL_MAX         = 8,$/;"	e	enum:__anon9
+CAL_MIN	bytecodes.h	/^  CAL_MIN         = 7,$/;"	e	enum:__anon9
+CAL_MINMAX	bytecodes.h	/^  CAL_MINMAX      = 3,$/;"	e	enum:__anon9
+CAM_NUM	line.cpp	12;"	d	file:
+CAM_NUM	main.cpp	136;"	d	file:
+CAM_NUM	qr.cpp	10;"	d	file:
+CAP_CONSTRAST	line.cpp	30;"	d	file:
+CAP_CONSTRAST	main.cpp	155;"	d	file:
+CAP_FPS	line.cpp	31;"	d	file:
+CAP_FPS	main.cpp	156;"	d	file:
+CAP_FPS	qr.cpp	17;"	d	file:
+CAP_HEIGHT	line.cpp	28;"	d	file:
+CAP_HEIGHT	main.cpp	153;"	d	file:
+CAP_HEIGHT	qr.cpp	14;"	d	file:
+CAP_INTERVAL	qr.cpp	16;"	d	file:
+CAP_WIDTH	line.cpp	27;"	d	file:
+CAP_WIDTH	main.cpp	152;"	d	file:
+CAP_WIDTH	qr.cpp	13;"	d	file:
+CC	Makefile	/^CC = g++ $/;"	m
+CEIL	bytecodes.h	/^  CEIL                          = 4,    \/\/!< Ceiling        r = ceil(x)$/;"	e	enum:__anon21
+CHAR_ERROR	bytecodes.h	/^  CHAR_ERROR                    = 22,$/;"	e	enum:__anon28
+CHECK	bytecodes.h	/^  CHECK               = 20,$/;"	e	enum:__anon14
+CIRCLE	bytecodes.h	/^  CIRCLE        = 4,$/;"	e	enum:__anon11
+CLEAN	bytecodes.h	/^  CLEAN         = 1,$/;"	e	enum:__anon11
+CLOSE	bytecodes.h	/^  CLOSE               = 7,$/;"	e	enum:__anon12
+CLOSE_LOG	bytecodes.h	/^  CLOSE_LOG           = 17,$/;"	e	enum:__anon12
+CLR_ALL	bytecodes.h	/^  CLR_ALL         = 10,$/;"	e	enum:__anon9
+CLR_CHANGES	bytecodes.h	/^  CLR_CHANGES     = 26,$/;"	e	enum:__anon9
+CMD_SLOT	bytecodes.h	/^  CMD_SLOT                      = 2,    \/\/!< Program slot used for direct commands coming from c_com$/;"	e	enum:__anon19
+CODE	bytecodes.h	/^  CODE          = 14,$/;"	e	enum:__anon3
+COLOR	bytecodes.h	/^COLOR;$/;"	t	typeref:enum:__anon40
+COLORS	bytecodes.h	/^  COLORS$/;"	e	enum:__anon40
+COMMAND	bytecodes.h	/^  COMMAND       = 14,$/;"	e	enum:__anon5
+COMPARE	bytecodes.h	/^  COMPARE             = 3,    \/\/ VM       compare two strings$/;"	e	enum:__anon17
+COM_GET_SUBCODE	bytecodes.h	/^COM_GET_SUBCODE;$/;"	t	typeref:enum:__anon7
+COM_GET_SUBCODES	bytecodes.h	/^  COM_GET_SUBCODES$/;"	e	enum:__anon7
+COM_READ_SUBCODE	bytecodes.h	/^COM_READ_SUBCODE;$/;"	t	typeref:enum:__anon5
+COM_READ_SUBCODES	bytecodes.h	/^  COM_READ_SUBCODES$/;"	e	enum:__anon5
+COM_SET_SUBCODE	bytecodes.h	/^COM_SET_SUBCODE;$/;"	t	typeref:enum:__anon8
+COM_SET_SUBCODES	bytecodes.h	/^  COM_SET_SUBCODES$/;"	e	enum:__anon8
+COM_WRITE_SUBCODE	bytecodes.h	/^COM_WRITE_SUBCODE;$/;"	t	typeref:enum:__anon6
+COM_WRITE_SUBCODES	bytecodes.h	/^  COM_WRITE_SUBCODES$/;"	e	enum:__anon6
+CONNEC_ITEM	bytecodes.h	/^  CONNEC_ITEM   = 18,$/;"	e	enum:__anon7
+CONNEC_ITEMS	bytecodes.h	/^  CONNEC_ITEMS  = 17,$/;"	e	enum:__anon7
+COPY	bytecodes.h	/^  COPY                = 7,$/;"	e	enum:__anon13
+COPY_ERROR	bytecodes.h	/^  COPY_ERROR                    = 23,$/;"	e	enum:__anon28
+COS	bytecodes.h	/^  COS                           = 12,   \/\/!<$/;"	e	enum:__anon21
+CPPFLAGS	Makefile	/^CPPFLAGS = -DDEBUG -g -O0$/;"	m
+CREATE16	bytecodes.h	/^  CREATE16            = 2,$/;"	e	enum:__anon13
+CREATE32	bytecodes.h	/^  CREATE32            = 3,$/;"	e	enum:__anon13
+CREATE8	bytecodes.h	/^  CREATE8             = 1,$/;"	e	enum:__anon13
+CREATEF	bytecodes.h	/^  CREATEF             = 4,$/;"	e	enum:__anon13
+CURRENT_SLOT	bytecodes.h	/^  CURRENT_SLOT                  = -1$/;"	e	enum:__anon19
+DATA16	lmstypes.h	/^typedef   SWORD                 DATA16; \/\/!< VM Type for 2 byte signed value$/;"	t
+DATA16_MAX	bytecodes.h	1578;"	d
+DATA16_MIN	bytecodes.h	1577;"	d
+DATA16_NAN	bytecodes.h	1571;"	d
+DATA32	lmstypes.h	/^typedef   SLONG                 DATA32; \/\/!< VM Type for 4 byte signed value$/;"	t
+DATA32_MAX	bytecodes.h	1580;"	d
+DATA32_MIN	bytecodes.h	1579;"	d
+DATA32_NAN	bytecodes.h	1572;"	d
+DATA8	lmstypes.h	/^typedef   SBYTE                 DATA8;  \/\/!< VM Type for 1 byte signed value$/;"	t
+DATA8_MAX	bytecodes.h	1576;"	d
+DATA8_MIN	bytecodes.h	1575;"	d
+DATA8_NAN	bytecodes.h	1570;"	d
+DATAF	lmstypes.h	/^typedef   FLOAT                 DATAF;  \/\/!< VM Type for 4 byte floating point value$/;"	t
+DATAF_MAX	bytecodes.h	1582;"	d
+DATAF_MIN	bytecodes.h	1581;"	d
+DATAF_NAN	bytecodes.h	1573;"	d
+DATA_16	bytecodes.h	/^  DATA_16       = 0x01,                 \/\/!< DATA16 (don't change)$/;"	e	enum:__anon36
+DATA_32	bytecodes.h	/^  DATA_32       = 0x02,                 \/\/!< DATA32 (don't change)$/;"	e	enum:__anon36
+DATA_8	bytecodes.h	/^  DATA_8        = 0x00,                 \/\/!< DATA8  (don't change)$/;"	e	enum:__anon36
+DATA_A	bytecodes.h	/^  DATA_A        = 0x05,                 \/\/!< Array handle$/;"	e	enum:__anon36
+DATA_F	bytecodes.h	/^  DATA_F        = 0x03,                 \/\/!< DATAF  (don't change)$/;"	e	enum:__anon36
+DATA_FORMAT	bytecodes.h	/^DATA_FORMAT;$/;"	t	typeref:enum:__anon36
+DATA_FORMATS	bytecodes.h	/^  DATA_FORMATS$/;"	e	enum:__anon36
+DATA_PCT	bytecodes.h	/^  DATA_PCT      = 0x10,                 \/\/!< Percent (used in opINPUT_READEXT)$/;"	e	enum:__anon36
+DATA_RAW	bytecodes.h	/^  DATA_RAW      = 0x12,                 \/\/!< Raw     (used in opINPUT_READEXT)$/;"	e	enum:__anon36
+DATA_S	bytecodes.h	/^  DATA_S        = 0x04,                 \/\/!< Zero terminated string$/;"	e	enum:__anon36
+DATA_SI	bytecodes.h	/^  DATA_SI       = 0x13,                 \/\/!< SI unit (used in opINPUT_READEXT)$/;"	e	enum:__anon36
+DATA_V	bytecodes.h	/^  DATA_V        = 0x07,                 \/\/!< Variable type$/;"	e	enum:__anon36
+DEBUG_SLOT	bytecodes.h	/^  DEBUG_SLOT                    = 4,    \/\/!< Program slot used to run the debug ui$/;"	e	enum:__anon19
+DEL	bytecodes.h	/^DEL;$/;"	t	typeref:enum:__anon37
+DELETE	bytecodes.h	/^  DELETE              = 0,$/;"	e	enum:__anon13
+DELS	bytecodes.h	/^  DELS$/;"	e	enum:__anon37
+DEL_CACHE_FILE	bytecodes.h	/^  DEL_CACHE_FILE      = 23,$/;"	e	enum:__anon12
+DEL_COLON	bytecodes.h	/^  DEL_COLON     = 4,                    \/\/!< Use colon as delimiter$/;"	e	enum:__anon37
+DEL_COMMA	bytecodes.h	/^  DEL_COMMA     = 5,                    \/\/!< Use comma as delimiter$/;"	e	enum:__anon37
+DEL_CRLF	bytecodes.h	/^  DEL_CRLF      = 7,                    \/\/!< Use return+line feed as delimiter$/;"	e	enum:__anon37
+DEL_LINEFEED	bytecodes.h	/^  DEL_LINEFEED  = 6,                    \/\/!< Use line feed as delimiter$/;"	e	enum:__anon37
+DEL_NONE	bytecodes.h	/^  DEL_NONE      = 0,                    \/\/!< No delimiter at all$/;"	e	enum:__anon37
+DEL_RETURN	bytecodes.h	/^  DEL_RETURN    = 3,                    \/\/!< Use return as delimiter$/;"	e	enum:__anon37
+DEL_SPACE	bytecodes.h	/^  DEL_SPACE     = 2,                    \/\/!< Use space as delimiter$/;"	e	enum:__anon37
+DEL_SUBFOLDER	bytecodes.h	/^  DEL_SUBFOLDER       = 24,$/;"	e	enum:__anon12
+DEL_TAB	bytecodes.h	/^  DEL_TAB       = 1,                    \/\/!< Use tab as delimiter$/;"	e	enum:__anon37
+DEVCMD	bytecodes.h	/^DEVCMD;$/;"	t	typeref:enum:__anon44
+DEVCMDS	bytecodes.h	/^  DEVCMDS$/;"	e	enum:__anon44
+DEVCMD_CHANNEL	bytecodes.h	/^  DEVCMD_CHANNEL      = 0x12,           \/\/!< UART device channel (IR seeker)$/;"	e	enum:__anon44
+DEVCMD_FIRE	bytecodes.h	/^  DEVCMD_FIRE         = 0x11,           \/\/!< UART device fire   (ultrasonic)$/;"	e	enum:__anon44
+DEVCMD_RESET	bytecodes.h	/^  DEVCMD_RESET        = 0x11,           \/\/!< UART device reset$/;"	e	enum:__anon44
+DIRPERMISSIONS	bytecodes.h	63;"	d
+DOTLINE	bytecodes.h	/^  DOTLINE       = 21,$/;"	e	enum:__anon11
+DOWNLOAD_END	bytecodes.h	/^  DOWNLOAD_END  = 15,$/;"	e	enum:__anon3
+DOWN_BUTTON	bytecodes.h	/^  DOWN_BUTTON                   = 3,$/;"	e	enum:__anon20
+DUPLICATE	bytecodes.h	/^  DUPLICATE           = 5,    \/\/ VM       duplicate one string to another$/;"	e	enum:__anon17
+Direction	line.cpp	/^enum Direction{$/;"	g	file:
+Direction	main.cpp	/^enum Direction{$/;"	g	file:
+ENCRYPT	bytecodes.h	/^ENCRYPT;$/;"	t	typeref:enum:__anon39
+ENCRYPTS	bytecodes.h	/^  ENCRYPTS$/;"	e	enum:__anon39
+ENCRYPT_NONE	bytecodes.h	/^  ENCRYPT_NONE                  = 0,$/;"	e	enum:__anon39
+ENCRYPT_WPA2	bytecodes.h	/^  ENCRYPT_WPA2                  = 1,$/;"	e	enum:__anon39
+END	line.cpp	/^	END$/;"	e	enum:Direction	file:
+END	main.cpp	/^	END$/;"	e	enum:Direction	file:
+ENTER_BUTTON	bytecodes.h	/^  ENTER_BUTTON                  = 2,$/;"	e	enum:__anon20
+ERRORTEXT	bytecodes.h	/^  ERRORTEXT           = 3,$/;"	e	enum:__anon15
+EV3_DEV_NAME	control.cpp	9;"	d	file:
+EV3_DEV_NAME	main.cpp	20;"	d	file:
+EV3_send_command	control.cpp	/^int EV3_send_command(int fd, char *direct_command_buf, int reply_needed) {$/;"	f
+EV3_send_command	main.cpp	/^int EV3_send_command(int fd, char *direct_command_buf, int reply_needed) {$/;"	f
+EXIST	bytecodes.h	/^  EXIST               = 16,     \/\/!< MUST BE GREATER OR EQUAL TO "ARRAY_SUBCODES"$/;"	e	enum:__anon14
+EXP	bytecodes.h	/^  EXP                           = 1,    \/\/!< e^x            r = expf(x)$/;"	e	enum:__anon21
+FAIL	bytecodes.h	/^  FAIL          = 2,                    \/\/!< Something failed$/;"	e	enum:__anon35
+FALSE	control.cpp	11;"	d	file:
+FALSE	main.cpp	16;"	d	file:
+FAVOUR_ITEM	bytecodes.h	/^  FAVOUR_ITEM   = 11,                   \/\/!<      Get$/;"	e	enum:__anon7
+FAVOUR_ITEMS	bytecodes.h	/^  FAVOUR_ITEMS  = 10,                   \/\/!<      Get$/;"	e	enum:__anon7
+FILENAME_SUBCODE	bytecodes.h	/^FILENAME_SUBCODE;$/;"	t	typeref:enum:__anon14
+FILENAME_SUBCODES	bytecodes.h	/^  FILENAME_SUBCODES$/;"	e	enum:__anon14
+FILEPERMISSIONS	bytecodes.h	62;"	d
+FILETYPE	bytecodes.h	/^FILETYPE;$/;"	t	typeref:enum:__anon34
+FILETYPES	bytecodes.h	/^  FILETYPES,                                \/\/!< Maximum icon types supported by the VM$/;"	e	enum:__anon34
+FILETYPE_UNKNOWN	bytecodes.h	/^  FILETYPE_UNKNOWN              = 0x00,$/;"	e	enum:__anon34
+FILE_SUBCODE	bytecodes.h	/^FILE_SUBCODE;$/;"	t	typeref:enum:__anon12
+FILE_SUBCODES	bytecodes.h	/^  FILE_SUBCODES$/;"	e	enum:__anon12
+FILL	bytecodes.h	/^  FILL                = 6,$/;"	e	enum:__anon13
+FILLCIRCLE	bytecodes.h	/^  FILLCIRCLE    = 24,$/;"	e	enum:__anon11
+FILLRECT	bytecodes.h	/^  FILLRECT      = 9,$/;"	e	enum:__anon11
+FILLWINDOW	bytecodes.h	/^  FILLWINDOW    = 19,$/;"	e	enum:__anon11
+FLOAT	lmstypes.h	/^typedef   LEGO::Real32          FLOAT;  \/\/!< Basic Type used to symbolise 32 bit floating point values$/;"	t
+FLOAT	lmstypes.h	/^typedef   float                 FLOAT;  \/\/!< Basic Type used to symbolise 32 bit floating point values$/;"	t
+FLOATVALUE	bytecodes.h	/^  FLOATVALUE    = 2,$/;"	e	enum:__anon3
+FLOOR	bytecodes.h	/^  FLOOR                         = 3,    \/\/!< Floor          r = floor(x)$/;"	e	enum:__anon21
+FLOOR	line.cpp	21;"	d	file:
+FLOOR	main.cpp	145;"	d	file:
+FLUSH	bytecodes.h	/^  FLUSH           = 4,$/;"	e	enum:__anon4
+FONTTYPE	bytecodes.h	/^FONTTYPE;$/;"	t	typeref:enum:__anon24
+FONTTYPES	bytecodes.h	/^  FONTTYPES                             \/\/!< Maximum font types supported by the VM$/;"	e	enum:__anon24
+GBINDEX	lmstypes.h	/^typedef   ULONG             GBINDEX;    \/\/!< GlobalBytes index type$/;"	t
+GET_ADDRESS	bytecodes.h	/^  GET_ADDRESS   = 13,$/;"	e	enum:__anon2
+GET_BACK_BLOCK	bytecodes.h	/^  GET_BACK_BLOCK  = 11,$/;"	e	enum:__anon4
+GET_BRICKNAME	bytecodes.h	/^  GET_BRICKNAME = 13,$/;"	e	enum:__anon7
+GET_BUMBED	bytecodes.h	/^  GET_BUMBED      = 14,$/;"	e	enum:__anon4
+GET_BUMPS	bytecodes.h	/^  GET_BUMPS       = 31,$/;"	e	enum:__anon9
+GET_CACHE_FILE	bytecodes.h	/^  GET_CACHE_FILE      = 22,$/;"	e	enum:__anon12
+GET_CACHE_FILES	bytecodes.h	/^  GET_CACHE_FILES     = 20,$/;"	e	enum:__anon12
+GET_CHANGES	bytecodes.h	/^  GET_CHANGES     = 25,$/;"	e	enum:__anon9
+GET_CLICK	bytecodes.h	/^  GET_CLICK       = 15,$/;"	e	enum:__anon4
+GET_CODE	bytecodes.h	/^  GET_CODE      = 14,$/;"	e	enum:__anon2
+GET_CONNECTION	bytecodes.h	/^  GET_CONNECTION  = 12,$/;"	e	enum:__anon9
+GET_ENCRYPT	bytecodes.h	/^  GET_ENCRYPT   = 16,$/;"	e	enum:__anon7
+GET_ERROR	bytecodes.h	/^  GET_ERROR           = 2,$/;"	e	enum:__anon15
+GET_EVENT	bytecodes.h	/^  GET_EVENT     = 4,$/;"	e	enum:__anon2
+GET_FIGURES	bytecodes.h	/^  GET_FIGURES     = 24,$/;"	e	enum:__anon9
+GET_FOLDERNAME	bytecodes.h	/^  GET_FOLDERNAME      = 23,$/;"	e	enum:__anon14
+GET_FOLDERS	bytecodes.h	/^  GET_FOLDERS         = 13,$/;"	e	enum:__anon12
+GET_FORMAT	bytecodes.h	/^  GET_FORMAT      = 2,$/;"	e	enum:__anon9
+GET_FW_BUILD	bytecodes.h	/^  GET_FW_BUILD  = 11,$/;"	e	enum:__anon2
+GET_FW_VERS	bytecodes.h	/^  GET_FW_VERS   = 10,$/;"	e	enum:__anon2
+GET_HANDLE	bytecodes.h	/^  GET_HANDLE          = 9,$/;"	e	enum:__anon12
+GET_HORZ	bytecodes.h	/^  GET_HORZ        = 7,$/;"	e	enum:__anon4
+GET_HW_VERS	bytecodes.h	/^  GET_HW_VERS   = 9,$/;"	e	enum:__anon2
+GET_IBATT	bytecodes.h	/^  GET_IBATT     = 2,$/;"	e	enum:__anon2
+GET_ID	bytecodes.h	/^  GET_ID        = 12,$/;"	e	enum:__anon7
+GET_IINT	bytecodes.h	/^  GET_IINT      = 6,$/;"	e	enum:__anon2
+GET_IMAGE	bytecodes.h	/^  GET_IMAGE           = 18,$/;"	e	enum:__anon12
+GET_IMOTOR	bytecodes.h	/^  GET_IMOTOR    = 7,$/;"	e	enum:__anon2
+GET_INCOMING	bytecodes.h	/^  GET_INCOMING  = 19,$/;"	e	enum:__anon7
+GET_IP	bytecodes.h	/^  GET_IP        = 27,$/;"	e	enum:__anon2
+GET_ITEM	bytecodes.h	/^  GET_ITEM            = 19,$/;"	e	enum:__anon12
+GET_LBATT	bytecodes.h	/^  GET_LBATT     = 18,$/;"	e	enum:__anon2
+GET_LOG_NAME	bytecodes.h	/^  GET_LOG_NAME        = 25,$/;"	e	enum:__anon12
+GET_LOG_SYNC_TIME	bytecodes.h	/^  GET_LOG_SYNC_TIME   = 14,$/;"	e	enum:__anon12
+GET_MINMAX	bytecodes.h	/^  GET_MINMAX      = 30,$/;"	e	enum:__anon9
+GET_MINUTES	bytecodes.h	/^  GET_MINUTES         = 6,$/;"	e	enum:__anon15
+GET_MODE2	bytecodes.h	/^  GET_MODE2     = 20,$/;"	e	enum:__anon7
+GET_MODENAME	bytecodes.h	/^  GET_MODENAME    = 22,$/;"	e	enum:__anon9
+GET_NAME	bytecodes.h	/^  GET_NAME        = 21,$/;"	e	enum:__anon9
+GET_NETWORK	bytecodes.h	/^  GET_NETWORK   = 14,$/;"	e	enum:__anon7
+GET_ON_OFF	bytecodes.h	/^  GET_ON_OFF    = 1,                    \/\/!< Set, Get$/;"	e	enum:__anon7
+GET_OS_BUILD	bytecodes.h	/^  GET_OS_BUILD  = 12,$/;"	e	enum:__anon2
+GET_OS_VERS	bytecodes.h	/^  GET_OS_VERS   = 3,$/;"	e	enum:__anon2
+GET_PIN	bytecodes.h	/^  GET_PIN       = 5,                    \/\/!< Set, Get$/;"	e	enum:__anon7
+GET_POOL	bytecodes.h	/^  GET_POOL            = 11,$/;"	e	enum:__anon12
+GET_POWER	bytecodes.h	/^  GET_POWER     = 29,$/;"	e	enum:__anon2
+GET_PRESENT	bytecodes.h	/^  GET_PRESENT   = 15,$/;"	e	enum:__anon7
+GET_PRGRESULT	bytecodes.h	/^  GET_PRGRESULT = 24,   \/\/ VM$/;"	e	enum:__anon10
+GET_RAW	bytecodes.h	/^  GET_RAW         = 11,$/;"	e	enum:__anon9
+GET_RESULT	bytecodes.h	/^  GET_RESULT    = 4,                    \/\/!<      Get$/;"	e	enum:__anon7
+GET_SDCARD	bytecodes.h	/^  GET_SDCARD    = 30,$/;"	e	enum:__anon2
+GET_SHUTDOWN	bytecodes.h	/^  GET_SHUTDOWN  = 16,$/;"	e	enum:__anon2
+GET_SIZE	bytecodes.h	/^  GET_SIZE            = 1,    \/\/ VM       get string size$/;"	e	enum:__anon17
+GET_SPEED	bytecodes.h	/^  GET_SPEED     = 23,   \/\/ VM$/;"	e	enum:__anon10
+GET_STATUS	bytecodes.h	/^  GET_STATUS    = 22,   \/\/ VM$/;"	e	enum:__anon10
+GET_STRING	bytecodes.h	/^  GET_STRING    = 8,$/;"	e	enum:__anon2
+GET_SUBFOLDER_NAME	bytecodes.h	/^  GET_SUBFOLDER_NAME  = 15,$/;"	e	enum:__anon12
+GET_SYMBOL	bytecodes.h	/^  GET_SYMBOL      = 6,$/;"	e	enum:__anon9
+GET_TBATT	bytecodes.h	/^  GET_TBATT     = 5,$/;"	e	enum:__anon2
+GET_TYPEMODE	bytecodes.h	/^  GET_TYPEMODE    = 5,$/;"	e	enum:__anon9
+GET_USBSTICK	bytecodes.h	/^  GET_USBSTICK  = 31,$/;"	e	enum:__anon2
+GET_VBATT	bytecodes.h	/^  GET_VBATT     = 1,$/;"	e	enum:__anon2
+GET_VERSION	bytecodes.h	/^  GET_VERSION   = 26,$/;"	e	enum:__anon2
+GET_VERT	bytecodes.h	/^  GET_VERT        = 8,$/;"	e	enum:__anon4
+GET_VISIBLE	bytecodes.h	/^  GET_VISIBLE   = 2,                    \/\/!< Set, Get$/;"	e	enum:__anon7
+GET_VOLUME	bytecodes.h	/^  GET_VOLUME          = 4,$/;"	e	enum:__anon15
+GET_WARNING	bytecodes.h	/^  GET_WARNING   = 17,$/;"	e	enum:__anon2
+GP	lmstypes.h	/^typedef   VARDATA*          GP;         \/\/!< global variable pointer type$/;"	t
+GRAPH_DRAW	bytecodes.h	/^  GRAPH_DRAW    = 31,$/;"	e	enum:__anon11
+GRAPH_SAMPLE	bytecodes.h	/^  GRAPH_SAMPLE  = 30,$/;"	e	enum:__anon3
+GRAPH_SETUP	bytecodes.h	/^  GRAPH_SETUP   = 30,$/;"	e	enum:__anon11
+GREEN	bytecodes.h	/^  GREEN         =  1,$/;"	e	enum:__anon40
+GREENCOLOR	bytecodes.h	/^  GREENCOLOR   = 3,$/;"	e	enum:__anon41
+GUI_SLOT	bytecodes.h	/^  GUI_SLOT                      = 0,    \/\/!< Program slot reserved for executing the user interface$/;"	e	enum:__anon19
+GV0	bytecodes.h	1703;"	d
+GV1	bytecodes.h	1704;"	d
+GV2	bytecodes.h	1705;"	d
+GV4	bytecodes.h	1706;"	d
+GlobalBytes	lmstypes.h	/^  GBINDEX GlobalBytes;                  \/\/!< Number of bytes to allocate for global variables$/;"	m	struct:__anon45
+HALTED	bytecodes.h	/^  HALTED  = 0x0080,                     \/\/!< Object is halted because a call is in progress$/;"	e	enum:__anon43
+HANDLER	lmstypes.h	/^typedef   DATA16            HANDLER;    \/\/!< Memory list index$/;"	t
+HEADERS	Makefile	/^HEADERS = $(OBJS:.o=.h) lmstypes.h bytecodes.h$/;"	m
+HND	bytecodes.h	1686;"	d
+HWTYPE	bytecodes.h	/^HWTYPE;$/;"	t	typeref:enum:__anon38
+HWTYPES	bytecodes.h	/^  HWTYPES$/;"	e	enum:__anon38
+HW_BT	bytecodes.h	/^  HW_BT                         = 2,$/;"	e	enum:__anon38
+HW_USB	bytecodes.h	/^  HW_USB                        = 1,$/;"	e	enum:__anon38
+HW_WIFI	bytecodes.h	/^  HW_WIFI                       = 3,$/;"	e	enum:__anon38
+ICON	bytecodes.h	/^  ICON          = 6,$/;"	e	enum:__anon11
+ICONTYPE	bytecodes.h	/^ICONTYPE;$/;"	t	typeref:enum:__anon25
+ICONTYPES	bytecodes.h	/^  ICONTYPES                             \/\/!< Maximum icon types supported by the VM$/;"	e	enum:__anon25
+ICON_ADD_HIDDEN	bytecodes.h	/^  ICON_ADD_HIDDEN               = 12,$/;"	e	enum:__anon27
+ICON_BLUETOOTH	bytecodes.h	/^  ICON_BLUETOOTH                = 22,$/;"	e	enum:__anon27
+ICON_BRICK	bytecodes.h	/^  ICON_BRICK                    = 5,    \/\/!< Bluetooth type BRICK$/;"	e	enum:__anon29
+ICON_BRICK1	bytecodes.h	/^  ICON_BRICK1                   = 34,$/;"	e	enum:__anon27
+ICON_CHECKBOX	bytecodes.h	/^  ICON_CHECKBOX                 = 8,$/;"	e	enum:__anon29
+ICON_CHECKED	bytecodes.h	/^  ICON_CHECKED                  = 9,$/;"	e	enum:__anon29
+ICON_CONNECT	bytecodes.h	/^  ICON_CONNECT                  = 16,$/;"	e	enum:__anon27
+ICON_CONNECTED	bytecodes.h	/^  ICON_CONNECTED                = 30,$/;"	e	enum:__anon27
+ICON_CONNECTIONS	bytecodes.h	/^  ICON_CONNECTIONS              = 11,$/;"	e	enum:__anon27
+ICON_DISC	bytecodes.h	/^  ICON_DISC                     = 29,$/;"	e	enum:__anon27
+ICON_DISCONNECT	bytecodes.h	/^  ICON_DISCONNECT               = 17,$/;"	e	enum:__anon27
+ICON_DOWN	bytecodes.h	/^  ICON_DOWN                     = 19,$/;"	e	enum:__anon27
+ICON_FOLDER	bytecodes.h	/^  ICON_FOLDER                   = 1,$/;"	e	enum:__anon27
+ICON_FOLDER2	bytecodes.h	/^  ICON_FOLDER2                  = 2,$/;"	e	enum:__anon27
+ICON_FROM_FOLDER	bytecodes.h	/^  ICON_FROM_FOLDER              = 7,$/;"	e	enum:__anon29
+ICON_IMAGE	bytecodes.h	/^  ICON_IMAGE                    = 6,$/;"	e	enum:__anon27
+ICON_INFO	bytecodes.h	/^  ICON_INFO                     = 23,$/;"	e	enum:__anon27
+ICON_INFO_FILE	bytecodes.h	/^  ICON_INFO_FILE                = 28,$/;"	e	enum:__anon27
+ICON_KEY	bytecodes.h	/^  ICON_KEY                      = 15,$/;"	e	enum:__anon27
+ICON_LEFT	bytecodes.h	/^  ICON_LEFT                     = 1,$/;"	e	enum:__anon30
+ICON_LOCK	bytecodes.h	/^  ICON_LOCK                     = 2,$/;"	e	enum:__anon29
+ICON_LOCKSTAR	bytecodes.h	/^  ICON_LOCKSTAR                 = 1,$/;"	e	enum:__anon29
+ICON_NONE	bytecodes.h	/^  ICON_NONE                     = -1,$/;"	e	enum:__anon27
+ICON_OBD	bytecodes.h	/^  ICON_OBD                      = 32,$/;"	e	enum:__anon27
+ICON_OBP	bytecodes.h	/^  ICON_OBP                      = 31,$/;"	e	enum:__anon27
+ICON_ONOFF	bytecodes.h	/^  ICON_ONOFF                    = 8,$/;"	e	enum:__anon27
+ICON_OPENFOLDER	bytecodes.h	/^  ICON_OPENFOLDER               = 33,$/;"	e	enum:__anon27
+ICON_PC	bytecodes.h	/^  ICON_PC                       = 3,    \/\/!< Bluetooth type PC$/;"	e	enum:__anon29
+ICON_PHONE	bytecodes.h	/^  ICON_PHONE                    = 4,    \/\/!< Bluetooth type PHONE$/;"	e	enum:__anon29
+ICON_QUESTION	bytecodes.h	/^  ICON_QUESTION = 27,$/;"	e	enum:__anon11
+ICON_QUESTIONMARK	bytecodes.h	/^  ICON_QUESTIONMARK             = 27,$/;"	e	enum:__anon27
+ICON_RIGHT	bytecodes.h	/^  ICON_RIGHT                    = 2,$/;"	e	enum:__anon30
+ICON_RUN	bytecodes.h	/^  ICON_RUN                      = 0,$/;"	e	enum:__anon27
+ICON_SD	bytecodes.h	/^  ICON_SD                       = 4,$/;"	e	enum:__anon27
+ICON_SEARCH	bytecodes.h	/^  ICON_SEARCH                   = 9,$/;"	e	enum:__anon27
+ICON_SETTINGS	bytecodes.h	/^  ICON_SETTINGS                 = 7,$/;"	e	enum:__anon27
+ICON_SOUND	bytecodes.h	/^  ICON_SOUND                    = 5,$/;"	e	enum:__anon27
+ICON_STAR	bytecodes.h	/^  ICON_STAR                     = 0,$/;"	e	enum:__anon29
+ICON_TEXT	bytecodes.h	/^  ICON_TEXT                     = 24,$/;"	e	enum:__anon27
+ICON_TRASHBIN	bytecodes.h	/^  ICON_TRASHBIN                 = 13,$/;"	e	enum:__anon27
+ICON_UNKNOWN	bytecodes.h	/^  ICON_UNKNOWN                  = 6,    \/\/!< Bluetooth type UNKNOWN$/;"	e	enum:__anon29
+ICON_UP	bytecodes.h	/^  ICON_UP                       = 18,$/;"	e	enum:__anon27
+ICON_USB	bytecodes.h	/^  ICON_USB                      = 3,$/;"	e	enum:__anon27
+ICON_VISIBILITY	bytecodes.h	/^  ICON_VISIBILITY               = 14,$/;"	e	enum:__anon27
+ICON_WAIT1	bytecodes.h	/^  ICON_WAIT1                    = 20,$/;"	e	enum:__anon27
+ICON_WAIT2	bytecodes.h	/^  ICON_WAIT2                    = 21,$/;"	e	enum:__anon27
+ICON_WIFI	bytecodes.h	/^  ICON_WIFI                     = 10,$/;"	e	enum:__anon27
+ICON_XED	bytecodes.h	/^  ICON_XED                      = 10,$/;"	e	enum:__anon29
+IMGDATA	lmstypes.h	/^typedef   UBYTE             IMGDATA;    \/\/!< Image base type$/;"	t
+IMGHEAD	lmstypes.h	/^IMGHEAD;$/;"	t	typeref:struct:__anon45
+IMINDEX	lmstypes.h	/^typedef   ULONG             IMINDEX;    \/\/!< ImageData index type$/;"	t
+IMOFFS	lmstypes.h	/^typedef   SLONG             IMOFFS;     \/\/!< ImageData offset type$/;"	t
+INFO_SUBCODE	bytecodes.h	/^INFO_SUBCODE;$/;"	t	typeref:enum:__anon15
+INFO_SUBCODES	bytecodes.h	/^  INFO_SUBCODES$/;"	e	enum:__anon15
+INIT16	bytecodes.h	/^  INIT16              = 9,$/;"	e	enum:__anon13
+INIT32	bytecodes.h	/^  INIT32              = 10,$/;"	e	enum:__anon13
+INIT8	bytecodes.h	/^  INIT8               = 8,$/;"	e	enum:__anon13
+INITF	bytecodes.h	/^  INITF               = 11,$/;"	e	enum:__anon13
+INIT_RUN	bytecodes.h	/^  INIT_RUN      = 25,$/;"	e	enum:__anon3
+INPUT_DEVICESUBCODES	bytecodes.h	/^  INPUT_DEVICESUBCODES$/;"	e	enum:__anon9
+INPUT_DEVICE_SUBCODE	bytecodes.h	/^INPUT_DEVICE_SUBCODE;$/;"	t	typeref:enum:__anon9
+INSERT_TYPE	bytecodes.h	/^  INSERT_TYPE     = 1,$/;"	e	enum:__anon9
+INVERSERECT	bytecodes.h	/^  INVERSERECT   = 16,$/;"	e	enum:__anon11
+IN_16	bytecodes.h	1722;"	d
+IN_32	bytecodes.h	1723;"	d
+IN_8	bytecodes.h	1721;"	d
+IN_F	bytecodes.h	1724;"	d
+IN_OUT_16	bytecodes.h	1739;"	d
+IN_OUT_32	bytecodes.h	1740;"	d
+IN_OUT_8	bytecodes.h	1738;"	d
+IN_OUT_F	bytecodes.h	1741;"	d
+IN_OUT_S	bytecodes.h	1742;"	d
+IN_S	bytecodes.h	1725;"	d
+IO_16	bytecodes.h	1733;"	d
+IO_32	bytecodes.h	1734;"	d
+IO_8	bytecodes.h	1732;"	d
+IO_F	bytecodes.h	1735;"	d
+IO_S	bytecodes.h	1736;"	d
+IP	lmstypes.h	/^typedef   IMGDATA*          IP;         \/\/!< Instruction pointer type$/;"	t
+ImageSize	lmstypes.h	/^  IMINDEX ImageSize;                    \/\/!< Image size$/;"	m	struct:__anon45
+KEY	bytecodes.h	/^  KEY           = 15,$/;"	e	enum:__anon2
+KEYBOARD	bytecodes.h	/^  KEYBOARD      = 13,$/;"	e	enum:__anon11
+LAB1	bytecodes.h	1691;"	d
+LABEL	lmstypes.h	/^LABEL;$/;"	t	typeref:struct:__anon47
+LARGE_FONT	bytecodes.h	/^  LARGE_FONT                    = 2,$/;"	e	enum:__anon24
+LARGE_ICON	bytecodes.h	/^  LARGE_ICON                    = 2,    \/\/!< "24x22_Yes_No_OFF_FILEOps.bmp"$/;"	e	enum:__anon25
+LBINDEX	lmstypes.h	/^typedef   ULONG             LBINDEX;    \/\/!< LocalBytes index type$/;"	t
+LC0	bytecodes.h	1693;"	d
+LC1	bytecodes.h	1694;"	d
+LC2	bytecodes.h	1695;"	d
+LC4	bytecodes.h	1696;"	d
+LCS	bytecodes.h	1689;"	d
+LDFLAGS	Makefile	/^LDFLAGS = -lopencv_highgui -lopencv_core -lopencv_imgproc -lzbar$/;"	m
+LED	bytecodes.h	/^  LED           = 27,$/;"	e	enum:__anon3
+LEDPATTERN	bytecodes.h	/^LEDPATTERN;$/;"	t	typeref:enum:__anon32
+LEDPATTERNS	bytecodes.h	/^  LEDPATTERNS$/;"	e	enum:__anon32
+LEDTYPE	bytecodes.h	/^LEDTYPE;$/;"	t	typeref:enum:__anon33
+LED_ALL	bytecodes.h	/^  LED_ALL                       = 0,        \/\/!< All LEDs$/;"	e	enum:__anon33
+LED_BLACK	bytecodes.h	/^  LED_BLACK                     = 0,$/;"	e	enum:__anon32
+LED_GREEN	bytecodes.h	/^  LED_GREEN                     = 1,$/;"	e	enum:__anon32
+LED_GREEN_FLASH	bytecodes.h	/^  LED_GREEN_FLASH               = 4,$/;"	e	enum:__anon32
+LED_GREEN_PULSE	bytecodes.h	/^  LED_GREEN_PULSE               = 7,$/;"	e	enum:__anon32
+LED_LG	bytecodes.h	/^  LED_LG                        = 4         \/\/!< Left green$/;"	e	enum:__anon33
+LED_LR	bytecodes.h	/^  LED_LR                        = 3,        \/\/!< Left red$/;"	e	enum:__anon33
+LED_ORANGE	bytecodes.h	/^  LED_ORANGE                    = 3,$/;"	e	enum:__anon32
+LED_ORANGE_FLASH	bytecodes.h	/^  LED_ORANGE_FLASH              = 6,$/;"	e	enum:__anon32
+LED_ORANGE_PULSE	bytecodes.h	/^  LED_ORANGE_PULSE              = 9,$/;"	e	enum:__anon32
+LED_RED	bytecodes.h	/^  LED_RED                       = 2,$/;"	e	enum:__anon32
+LED_RED_FLASH	bytecodes.h	/^  LED_RED_FLASH                 = 5,$/;"	e	enum:__anon32
+LED_RED_PULSE	bytecodes.h	/^  LED_RED_PULSE                 = 8,$/;"	e	enum:__anon32
+LED_RG	bytecodes.h	/^  LED_RG                        = 2,        \/\/!< Right green$/;"	e	enum:__anon33
+LED_RR	bytecodes.h	/^  LED_RR                        = 1,        \/\/!< Right red$/;"	e	enum:__anon33
+LEFT	line.cpp	/^	LEFT, $/;"	e	enum:Direction	file:
+LEFT	main.cpp	/^	LEFT, $/;"	e	enum:Direction	file:
+LEFT_BUTTON	bytecodes.h	/^  LEFT_BUTTON                   = 5,$/;"	e	enum:__anon20
+LFILE	lmstypes.h	47;"	d
+LINE	bytecodes.h	/^  LINE          = 3,$/;"	e	enum:__anon11
+LINE	line.cpp	20;"	d	file:
+LINE	main.cpp	144;"	d	file:
+LMSTYPES_H_	lmstypes.h	31;"	d
+LN	bytecodes.h	/^  LN                            = 10,   \/\/!< Ln             r = log(x)$/;"	e	enum:__anon21
+LOAD_IMAGE	bytecodes.h	/^  LOAD_IMAGE          = 8,$/;"	e	enum:__anon12
+LOG	bytecodes.h	/^  LOG                           = 9,    \/\/!< Log            r = log10(x)$/;"	e	enum:__anon21
+LONGPRESS	bytecodes.h	/^  LONGPRESS       = 2,$/;"	e	enum:__anon4
+LONGToBytes	bytecodes.h	1644;"	d
+LP	lmstypes.h	/^typedef   VARDATA*          LP;         \/\/!< Local variable pointer type$/;"	t
+LV0	bytecodes.h	1698;"	d
+LV1	bytecodes.h	1699;"	d
+LV2	bytecodes.h	1700;"	d
+LV4	bytecodes.h	1701;"	d
+L_ICON_NO	bytecodes.h	/^L_ICON_NO;$/;"	t	typeref:enum:__anon28
+L_ICON_NOS	bytecodes.h	/^  L_ICON_NOS$/;"	e	enum:__anon28
+LocalBytes	lmstypes.h	/^  LBINDEX LocalBytes;                   \/\/!< Number of bytes to allocate for local variables$/;"	m	struct:__anon46
+MAGIC_KEY	control.cpp	14;"	d	file:
+MAGIC_KEY	main.cpp	22;"	d	file:
+MAKE_FOLDER	bytecodes.h	/^  MAKE_FOLDER         = 10,$/;"	e	enum:__anon12
+MATHTYPE	bytecodes.h	/^MATHTYPE;$/;"	t	typeref:enum:__anon21
+MATHTYPES	bytecodes.h	/^  MATHTYPES                             \/\/!< Maximum number of math functions supported by the VM$/;"	e	enum:__anon21
+MAX_BUF_LEN	control.cpp	13;"	d	file:
+MAX_BUF_LEN	main.cpp	21;"	d	file:
+MENU_ICON	bytecodes.h	/^  MENU_ICON                     = 3,$/;"	e	enum:__anon25
+MERGE	bytecodes.h	/^  MERGE               = 19,$/;"	e	enum:__anon14
+MOD	bytecodes.h	/^  MOD                           = 2,    \/\/!< Modulo         r = fmod(x,y)$/;"	e	enum:__anon21
+MOD16	bytecodes.h	/^  MOD16                         = 18,   \/\/!< Modulo DATA16  r = x % y$/;"	e	enum:__anon21
+MOD32	bytecodes.h	/^  MOD32                         = 19,   \/\/!< Modulo DATA32  r = x % y$/;"	e	enum:__anon21
+MOD8	bytecodes.h	/^  MOD8                          = 17,   \/\/!< Modulo DATA8   r = x % y$/;"	e	enum:__anon21
+MODE_KEEP	bytecodes.h	/^  MODE_KEEP                     =  -1,  \/\/!< Mode value that won't change mode in byte codes (convenient place to define)$/;"	e	enum:__anon18
+MODE_LIGHT	control.cpp	108;"	d	file:
+MODE_USONIC	control.cpp	86;"	d	file:
+MOVE	bytecodes.h	/^  MOVE                = 31,$/;"	e	enum:__anon12
+M_ICON_NO	bytecodes.h	/^M_ICON_NO;$/;"	t	typeref:enum:__anon29
+M_ICON_NOS	bytecodes.h	/^  M_ICON_NOS$/;"	e	enum:__anon29
+NEGATE	bytecodes.h	/^  NEGATE                        = 7,    \/\/!< Negate         r = 0.0 - x$/;"	e	enum:__anon21
+NORMAL_FONT	bytecodes.h	/^  NORMAL_FONT                   = 0,$/;"	e	enum:__anon24
+NORMAL_ICON	bytecodes.h	/^  NORMAL_ICON                   = 0,    \/\/!< "24x12_Files_Folders_Settings.bmp"$/;"	e	enum:__anon25
+NOTIFICATION	bytecodes.h	/^  NOTIFICATION  = 11,$/;"	e	enum:__anon11
+NO_BUTTON	bytecodes.h	/^  NO_BUTTON                     = 0,$/;"	e	enum:__anon20
+NO_NOTSEL	bytecodes.h	/^  NO_NOTSEL                     = 2,$/;"	e	enum:__anon28
+NO_SEL	bytecodes.h	/^  NO_SEL                        = 3,$/;"	e	enum:__anon28
+NO_USBSTICK	bytecodes.h	/^  NO_USBSTICK                   = 12,$/;"	e	enum:__anon28
+NUMBER_FORMATTED	bytecodes.h	/^  NUMBER_FORMATTED    = 12,$/;"	e	enum:__anon17
+NUMBER_TO_STRING	bytecodes.h	/^  NUMBER_TO_STRING    = 9,$/;"	e	enum:__anon17
+NXTCOLOR	bytecodes.h	/^NXTCOLOR;$/;"	t	typeref:enum:__anon41
+N_ICON_NO	bytecodes.h	/^N_ICON_NO;$/;"	t	typeref:enum:__anon27
+N_ICON_NOS	bytecodes.h	/^  N_ICON_NOS$/;"	e	enum:__anon27
+NumberOfObjects	lmstypes.h	/^  OBJID   NumberOfObjects;              \/\/!< Total number of objects in image$/;"	m	struct:__anon45
+OBJHEAD	lmstypes.h	/^OBJHEAD;$/;"	t	typeref:struct:__anon46
+OBJID	lmstypes.h	/^typedef   UWORD             OBJID;      \/\/!< Object id type$/;"	t
+OBJSTAT	bytecodes.h	/^OBJSTAT;$/;"	t	typeref:enum:__anon43
+OBJ_START	bytecodes.h	/^  OBJ_START     = 4,    \/\/ VM$/;"	e	enum:__anon10
+OBJ_STOP	bytecodes.h	/^  OBJ_STOP      = 0,    \/\/ VM$/;"	e	enum:__anon10
+OFF	bytecodes.h	/^  OFF                           = 4,$/;"	e	enum:__anon28
+OK	bytecodes.h	/^  OK            = 0,                    \/\/!< No errors to report$/;"	e	enum:__anon35
+OP	bytecodes.h	/^OP;$/;"	t	typeref:enum:__anon1
+OPEN_APPEND	bytecodes.h	/^  OPEN_APPEND         = 0,$/;"	e	enum:__anon12
+OPEN_LOG	bytecodes.h	/^  OPEN_LOG            = 27,$/;"	e	enum:__anon12
+OPEN_READ	bytecodes.h	/^  OPEN_READ           = 1,$/;"	e	enum:__anon12
+OPEN_WRITE	bytecodes.h	/^  OPEN_WRITE          = 2,$/;"	e	enum:__anon12
+OUT_16	bytecodes.h	1727;"	d
+OUT_32	bytecodes.h	1728;"	d
+OUT_8	bytecodes.h	1726;"	d
+OUT_F	bytecodes.h	1729;"	d
+OUT_S	bytecodes.h	1730;"	d
+OffsetToInstructions	lmstypes.h	/^  IP      OffsetToInstructions;         \/\/!< Offset to instructions from image start$/;"	m	struct:__anon46
+OwnerObjectId	lmstypes.h	/^  OBJID   OwnerObjectId;                \/\/!< Used by BLOCK's to hold the owner id$/;"	m	struct:__anon46
+PACK	bytecodes.h	/^  PACK                = 21,$/;"	e	enum:__anon14
+PARS	lmstypes.h	/^typedef   UBYTE             PARS;       \/\/!< NoOfParameters type$/;"	t
+PI	line.cpp	34;"	d	file:
+PICTURE	bytecodes.h	/^  PICTURE       = 7,$/;"	e	enum:__anon11
+PIXEL	bytecodes.h	/^  PIXEL         = 2,$/;"	e	enum:__anon11
+PLAY	bytecodes.h	/^  PLAY                = 2,$/;"	e	enum:__anon16
+POPUP	bytecodes.h	/^  POPUP         = 29,$/;"	e	enum:__anon11
+PORT_LIGHT_L	control.cpp	105;"	d	file:
+PORT_LIGHT_R	control.cpp	106;"	d	file:
+PORT_MOTOR_L	control.cpp	144;"	d	file:
+PORT_MOTOR_L	main.cpp	24;"	d	file:
+PORT_MOTOR_R	control.cpp	145;"	d	file:
+PORT_MOTOR_R	main.cpp	25;"	d	file:
+PORT_USONIC	control.cpp	84;"	d	file:
+POSTCMD	Makefile	/^POSTCMD = .\/control$/;"	m
+POW	bytecodes.h	/^  POW                           = 20,   \/\/!< Exponent       r = powf(x,y)$/;"	e	enum:__anon21
+POWER	bytecodes.h	/^  POWER         = 29,$/;"	e	enum:__anon3
+PRESS	bytecodes.h	/^  PRESS           = 5,$/;"	e	enum:__anon4
+PRESSED	bytecodes.h	/^  PRESSED         = 9,$/;"	e	enum:__anon4
+PRGID	lmstypes.h	/^typedef   UWORD             PRGID;      \/\/!< Program id type$/;"	t
+PRIMPAR_1_BYTE	bytecodes.h	1679;"	d
+PRIMPAR_2_BYTES	bytecodes.h	1680;"	d
+PRIMPAR_4_BYTES	bytecodes.h	1681;"	d
+PRIMPAR_ADDR	bytecodes.h	1670;"	d
+PRIMPAR_BYTES	bytecodes.h	1676;"	d
+PRIMPAR_CONST	bytecodes.h	1665;"	d
+PRIMPAR_CONST_SIGN	bytecodes.h	1673;"	d
+PRIMPAR_GLOBAL	bytecodes.h	1668;"	d
+PRIMPAR_HANDLE	bytecodes.h	1669;"	d
+PRIMPAR_INDEX	bytecodes.h	1672;"	d
+PRIMPAR_LABEL	bytecodes.h	1684;"	d
+PRIMPAR_LOCAL	bytecodes.h	1667;"	d
+PRIMPAR_LONG	bytecodes.h	1663;"	d
+PRIMPAR_SHORT	bytecodes.h	1662;"	d
+PRIMPAR_STRING	bytecodes.h	1682;"	d
+PRIMPAR_STRING_OLD	bytecodes.h	1678;"	d
+PRIMPAR_VALUE	bytecodes.h	1674;"	d
+PRIMPAR_VARIABEL	bytecodes.h	1666;"	d
+PROGRAMHeader	bytecodes.h	1648;"	d
+PROGRAM_ERROR	bytecodes.h	/^  PROGRAM_ERROR                 = 24,$/;"	e	enum:__anon28
+PROGRAM_INFO_SUBCODE	bytecodes.h	/^PROGRAM_INFO_SUBCODE;$/;"	t	typeref:enum:__anon10
+PROGRAM_INFO_SUBCODES	bytecodes.h	/^  PROGRAM_INFO_SUBCODES,$/;"	e	enum:__anon10
+PUT_CACHE_FILE	bytecodes.h	/^  PUT_CACHE_FILE      = 21,$/;"	e	enum:__anon12
+PUT_STRING	bytecodes.h	/^  PUT_STRING    = 8,$/;"	e	enum:__anon3
+Pattern	line.cpp	/^	Pattern(){$/;"	f	class:Pattern
+Pattern	line.cpp	/^	Pattern(Pattern *p){$/;"	f	class:Pattern
+Pattern	line.cpp	/^	Pattern(uchar* array, int n, Direction dir){$/;"	f	class:Pattern
+Pattern	line.cpp	/^class Pattern{$/;"	c	file:
+Pattern	main.cpp	/^	Pattern(){$/;"	f	class:Pattern
+Pattern	main.cpp	/^	Pattern(Pattern *p){$/;"	f	class:Pattern
+Pattern	main.cpp	/^	Pattern(uchar* array, int n, Direction dir){$/;"	f	class:Pattern
+Pattern	main.cpp	/^class Pattern{$/;"	c	file:
+QUESTION	bytecodes.h	/^  QUESTION      = 12,$/;"	e	enum:__anon11
+READY_IIC	bytecodes.h	/^  READY_IIC       = 15,$/;"	e	enum:__anon9
+READY_PCT	bytecodes.h	/^  READY_PCT       = 27,$/;"	e	enum:__anon9
+READY_RAW	bytecodes.h	/^  READY_RAW       = 28,$/;"	e	enum:__anon9
+READY_SI	bytecodes.h	/^  READY_SI        = 29,$/;"	e	enum:__anon9
+READ_BYTES	bytecodes.h	/^  READ_BYTES          = 28,$/;"	e	enum:__anon12
+READ_CONTENT	bytecodes.h	/^  READ_CONTENT        = 13,$/;"	e	enum:__anon13
+READ_SIZE	bytecodes.h	/^  READ_SIZE           = 15,$/;"	e	enum:__anon13
+READ_TEXT	bytecodes.h	/^  READ_TEXT           = 5,$/;"	e	enum:__anon12
+READ_VALUE	bytecodes.h	/^  READ_VALUE          = 3,$/;"	e	enum:__anon12
+RECT	bytecodes.h	/^  RECT          = 10,$/;"	e	enum:__anon11
+RED	bytecodes.h	/^  RED           =  0,$/;"	e	enum:__anon40
+REDCOLOR	bytecodes.h	/^  REDCOLOR     = 5,$/;"	e	enum:__anon41
+RELEASE	bytecodes.h	/^  RELEASE         = 6,$/;"	e	enum:__anon4
+REMOVE	bytecodes.h	/^  REMOVE              = 30,$/;"	e	enum:__anon12
+REPEAT	bytecodes.h	/^  REPEAT              = 3,$/;"	e	enum:__anon16
+REPLY	bytecodes.h	/^  REPLY         = 14,$/;"	e	enum:__anon6
+RESIZE	bytecodes.h	/^  RESIZE              = 5,$/;"	e	enum:__anon13
+RESTORE	bytecodes.h	/^  RESTORE       = 26,$/;"	e	enum:__anon11
+RESULT	bytecodes.h	/^RESULT;$/;"	t	typeref:enum:__anon35
+RIGHT	line.cpp	/^	RIGHT,$/;"	e	enum:Direction	file:
+RIGHT	main.cpp	/^	RIGHT,$/;"	e	enum:Direction	file:
+RIGHT_BUTTON	bytecodes.h	/^  RIGHT_BUTTON                  = 4,$/;"	e	enum:__anon20
+ROUND	bytecodes.h	/^  ROUND                         = 5,    \/\/!< Round          r = round(x)$/;"	e	enum:__anon21
+RUNNING	bytecodes.h	/^  RUNNING = 0x0010,                     \/\/!< Object code is running$/;"	e	enum:__anon43
+SBYTE	lmstypes.h	/^typedef   LEGO::Int8            SBYTE;  \/\/!< Basic Type used to symbolise 8  bit signed values$/;"	t
+SBYTE	lmstypes.h	/^typedef   signed char           SBYTE;  \/\/!< Basic Type used to symbolise 8  bit signed values$/;"	t
+SCREEN_BLOCK	bytecodes.h	/^  SCREEN_BLOCK  = 16,$/;"	e	enum:__anon3
+SCROLL	bytecodes.h	/^  SCROLL        = 20,$/;"	e	enum:__anon11
+SEARCH_ITEM	bytecodes.h	/^  SEARCH_ITEM   = 9,                    \/\/!<      Get$/;"	e	enum:__anon7
+SEARCH_ITEMS	bytecodes.h	/^  SEARCH_ITEMS  = 8,                    \/\/!<      Get$/;"	e	enum:__anon7
+SELECT_FONT	bytecodes.h	/^  SELECT_FONT   = 17,$/;"	e	enum:__anon11
+SERVICE	bytecodes.h	/^  SERVICE             = 4,$/;"	e	enum:__anon16
+SETUP	bytecodes.h	/^  SETUP           = 9,$/;"	e	enum:__anon9
+SET_BACK_BLOCK	bytecodes.h	/^  SET_BACK_BLOCK  = 10,$/;"	e	enum:__anon4
+SET_BRICKNAME	bytecodes.h	/^  SET_BRICKNAME = 8,$/;"	e	enum:__anon8
+SET_BUSY	bytecodes.h	/^  SET_BUSY      = 22,$/;"	e	enum:__anon3
+SET_CONNECTION	bytecodes.h	/^  SET_CONNECTION = 7,                    \/\/!< Set$/;"	e	enum:__anon8
+SET_ENCRYPT	bytecodes.h	/^  SET_ENCRYPT   = 11,$/;"	e	enum:__anon8
+SET_ERROR	bytecodes.h	/^  SET_ERROR           = 1,$/;"	e	enum:__anon15
+SET_INSTR	bytecodes.h	/^  SET_INSTR     = 25,   \/\/ VM$/;"	e	enum:__anon10
+SET_LOG_SYNC_TIME	bytecodes.h	/^  SET_LOG_SYNC_TIME   = 12,$/;"	e	enum:__anon12
+SET_MINUTES	bytecodes.h	/^  SET_MINUTES         = 7,$/;"	e	enum:__anon15
+SET_MODE2	bytecodes.h	/^  SET_MODE2     = 13,$/;"	e	enum:__anon8
+SET_MOVEDOWN	bytecodes.h	/^  SET_MOVEDOWN  = 10,$/;"	e	enum:__anon8
+SET_MOVEUP	bytecodes.h	/^  SET_MOVEUP    = 9,$/;"	e	enum:__anon8
+SET_ON_OFF	bytecodes.h	/^  SET_ON_OFF    = 1,                    \/\/!< Set, Get$/;"	e	enum:__anon8
+SET_PASSKEY	bytecodes.h	/^  SET_PASSKEY   = 6,                    \/\/!< Set$/;"	e	enum:__anon8
+SET_PIN	bytecodes.h	/^  SET_PIN       = 5,                    \/\/!< Set, Get$/;"	e	enum:__anon8
+SET_PULSE	bytecodes.h	/^  SET_PULSE     = 18,$/;"	e	enum:__anon3
+SET_RAW	bytecodes.h	/^  SET_RAW         = 23,$/;"	e	enum:__anon9
+SET_SEARCH	bytecodes.h	/^  SET_SEARCH    = 3,                    \/\/!< Set$/;"	e	enum:__anon8
+SET_SSID	bytecodes.h	/^  SET_SSID      = 12,$/;"	e	enum:__anon8
+SET_TESTPIN	bytecodes.h	/^  SET_TESTPIN   = 24,$/;"	e	enum:__anon3
+SET_TYPEMODE	bytecodes.h	/^  SET_TYPEMODE    = 14,$/;"	e	enum:__anon9
+SET_VISIBLE	bytecodes.h	/^  SET_VISIBLE   = 2,                    \/\/!< Set, Get$/;"	e	enum:__anon8
+SET_VOLUME	bytecodes.h	/^  SET_VOLUME          = 5,$/;"	e	enum:__anon15
+SHORTPRESS	bytecodes.h	/^  SHORTPRESS      = 1,$/;"	e	enum:__anon4
+SICON_BATT_0	bytecodes.h	/^  SICON_BATT_0                  = 5,$/;"	e	enum:__anon26
+SICON_BATT_1	bytecodes.h	/^  SICON_BATT_1                  = 4,$/;"	e	enum:__anon26
+SICON_BATT_2	bytecodes.h	/^  SICON_BATT_2                  = 3,$/;"	e	enum:__anon26
+SICON_BATT_3	bytecodes.h	/^  SICON_BATT_3                  = 2,$/;"	e	enum:__anon26
+SICON_BATT_4	bytecodes.h	/^  SICON_BATT_4                  = 1,$/;"	e	enum:__anon26
+SICON_BT_CONNECTED	bytecodes.h	/^  SICON_BT_CONNECTED            = 10,$/;"	e	enum:__anon26
+SICON_BT_CONNVISIB	bytecodes.h	/^  SICON_BT_CONNVISIB            = 11,$/;"	e	enum:__anon26
+SICON_BT_ON	bytecodes.h	/^  SICON_BT_ON                   = 8,$/;"	e	enum:__anon26
+SICON_BT_VISIBLE	bytecodes.h	/^  SICON_BT_VISIBLE              = 9,$/;"	e	enum:__anon26
+SICON_CHARGING	bytecodes.h	/^  SICON_CHARGING                = 0,$/;"	e	enum:__anon26
+SICON_USB	bytecodes.h	/^  SICON_USB                     = 21,$/;"	e	enum:__anon26
+SICON_WAIT1	bytecodes.h	/^  SICON_WAIT1                   = 6,$/;"	e	enum:__anon26
+SICON_WAIT2	bytecodes.h	/^  SICON_WAIT2                   = 7,$/;"	e	enum:__anon26
+SICON_WIFI_1	bytecodes.h	/^  SICON_WIFI_1                  = 14,$/;"	e	enum:__anon26
+SICON_WIFI_2	bytecodes.h	/^  SICON_WIFI_2                  = 13,$/;"	e	enum:__anon26
+SICON_WIFI_3	bytecodes.h	/^  SICON_WIFI_3                  = 12,$/;"	e	enum:__anon26
+SICON_WIFI_CONNECTED	bytecodes.h	/^  SICON_WIFI_CONNECTED          = 15,$/;"	e	enum:__anon26
+SIN	bytecodes.h	/^  SIN                           = 11,   \/\/!<$/;"	e	enum:__anon21
+SIZE	bytecodes.h	/^  SIZE                = 12,$/;"	e	enum:__anon13
+SLONG	lmstypes.h	/^typedef   LEGO::Int32           SLONG;  \/\/!< Basic Type used to symbolise 32 bit signed values$/;"	t
+SLONG	lmstypes.h	/^typedef   signed int            SLONG;  \/\/!< Basic Type used to symbolise 32 bit signed values$/;"	t
+SLOT	bytecodes.h	/^SLOT;$/;"	t	typeref:enum:__anon19
+SLOTS	bytecodes.h	/^  SLOTS,                                \/\/!< Maximum slots supported by the VM$/;"	e	enum:__anon19
+SMALL_FONT	bytecodes.h	/^  SMALL_FONT                    = 1,$/;"	e	enum:__anon24
+SMALL_HEIGHT	line.cpp	24;"	d	file:
+SMALL_HEIGHT	main.cpp	149;"	d	file:
+SMALL_ICON	bytecodes.h	/^  SMALL_ICON                    = 1,$/;"	e	enum:__anon25
+SMALL_WIDTH	line.cpp	23;"	d	file:
+SMALL_WIDTH	main.cpp	148;"	d	file:
+SOUND_SUBCODE	bytecodes.h	/^SOUND_SUBCODE;$/;"	t	typeref:enum:__anon16
+SOUND_SUBCODES	bytecodes.h	/^  SOUND_SUBCODES$/;"	e	enum:__anon16
+SPEED_MOTOR_MAX	control.cpp	146;"	d	file:
+SPEED_MOTOR_MAX	main.cpp	26;"	d	file:
+SPEED_MOTOR_MIN	control.cpp	147;"	d	file:
+SPEED_MOTOR_MIN	main.cpp	27;"	d	file:
+SPEED_MOTOR_SAT	main.cpp	29;"	d	file:
+SPLIT	bytecodes.h	/^  SPLIT               = 18,$/;"	e	enum:__anon14
+SQRT	bytecodes.h	/^  SQRT                          = 8,    \/\/!< Squareroot     r = sqrt(x)$/;"	e	enum:__anon21
+SRCS	Makefile	/^SRCS = $(OBJS:.o=.cpp)$/;"	m
+STAMP	bytecodes.h	/^  STAMP         = 3,$/;"	e	enum:__anon3
+START	bytecodes.h	/^  START         = 8                     \/\/!< Start$/;"	e	enum:__anon35
+STOP	bytecodes.h	/^  STOP          = 4,                    \/\/!< Stopped$/;"	e	enum:__anon35
+STOPPED	bytecodes.h	/^  STOPPED = 0x0040,                     \/\/!< Object is stopped or not triggered yet$/;"	e	enum:__anon43
+STOP_ALL	bytecodes.h	/^  STOP_ALL        = 13,$/;"	e	enum:__anon9
+STORE	bytecodes.h	/^  STORE         = 25,$/;"	e	enum:__anon11
+STRING_SUBCODE	bytecodes.h	/^STRING_SUBCODE;$/;"	t	typeref:enum:__anon17
+STRING_SUBCODES	bytecodes.h	/^  STRING_SUBCODES$/;"	e	enum:__anon17
+STRING_TO_VALUE	bytecodes.h	/^  STRING_TO_VALUE     = 7,$/;"	e	enum:__anon17
+STRIP	bytecodes.h	/^  STRIP               = 8,$/;"	e	enum:__anon17
+SUB	bytecodes.h	/^  SUB                 = 10,$/;"	e	enum:__anon17
+SUBCALLHeader	bytecodes.h	1654;"	d
+SWORD	lmstypes.h	/^typedef   LEGO::Int16           SWORD;  \/\/!< Basic Type used to symbolise 16 bit signed values$/;"	t
+SWORD	lmstypes.h	/^typedef   signed short          SWORD;  \/\/!< Basic Type used to symbolise 16 bit signed values$/;"	t
+SYSPERMISSIONS	bytecodes.h	64;"	d
+S_ICON_NO	bytecodes.h	/^S_ICON_NO;$/;"	t	typeref:enum:__anon26
+S_ICON_NOS	bytecodes.h	/^  S_ICON_NOS$/;"	e	enum:__anon26
+Sign	lmstypes.h	/^  UBYTE   Sign[4];                      \/\/!< Place holder for the file type identifier$/;"	m	struct:__anon45
+TAN	bytecodes.h	/^  TAN                           = 13,   \/\/!<$/;"	e	enum:__anon21
+TARGETS	Makefile	/^TARGETS = $(OBJS:.o=)$/;"	m
+TERMINAL	bytecodes.h	/^  TERMINAL      = 31,$/;"	e	enum:__anon3
+TERM_SLOT	bytecodes.h	/^  TERM_SLOT                     = 3,    \/\/!< Program slot used for direct commands coming from c_ui$/;"	e	enum:__anon19
+TESTLONGPRESS	bytecodes.h	/^  TESTLONGPRESS   = 13,$/;"	e	enum:__anon4
+TESTSHORTPRESS	bytecodes.h	/^  TESTSHORTPRESS  = 12,$/;"	e	enum:__anon4
+TEXT	bytecodes.h	/^  TEXT          = 5,$/;"	e	enum:__anon11
+TEXTBOX	bytecodes.h	/^  TEXTBOX       = 32,$/;"	e	enum:__anon11
+TEXTBOX_APPEND	bytecodes.h	/^  TEXTBOX_APPEND = 21,$/;"	e	enum:__anon3
+TEXTBOX_READ	bytecodes.h	/^  TEXTBOX_READ  = 21,$/;"	e	enum:__anon2
+TINY_FONT	bytecodes.h	/^  TINY_FONT                     = 3,$/;"	e	enum:__anon24
+TONE	bytecodes.h	/^  TONE                = 1,$/;"	e	enum:__anon16
+TOP	line.cpp	/^	TOP = 0,$/;"	e	enum:Direction	file:
+TOP	main.cpp	/^	TOP = 0,$/;"	e	enum:Direction	file:
+TOPLINE	bytecodes.h	/^  TOPLINE       = 18,$/;"	e	enum:__anon11
+TOTALSIZE	bytecodes.h	/^  TOTALSIZE           = 17,$/;"	e	enum:__anon14
+TO_BLUETOOTH	bytecodes.h	/^  TO_BLUETOOTH                  = 17,$/;"	e	enum:__anon28
+TO_BRICK	bytecodes.h	/^  TO_BRICK                      = 14,$/;"	e	enum:__anon28
+TO_COPY	bytecodes.h	/^  TO_COPY                       = 20,$/;"	e	enum:__anon28
+TO_EXECUTE	bytecodes.h	/^  TO_EXECUTE                    = 13,$/;"	e	enum:__anon28
+TO_FILE	bytecodes.h	/^  TO_FILE                       = 21,$/;"	e	enum:__anon28
+TO_MANUAL	bytecodes.h	/^  TO_MANUAL                     = 7,$/;"	e	enum:__anon28
+TO_SDCARD	bytecodes.h	/^  TO_SDCARD                     = 15,$/;"	e	enum:__anon28
+TO_TRASH	bytecodes.h	/^  TO_TRASH                      = 19,$/;"	e	enum:__anon28
+TO_USBSTICK	bytecodes.h	/^  TO_USBSTICK                   = 16,$/;"	e	enum:__anon28
+TO_WIFI	bytecodes.h	/^  TO_WIFI                       = 18,$/;"	e	enum:__anon28
+TRIGGER	lmstypes.h	/^typedef   UWORD             TRIGGER;    \/\/!< TriggerCount type$/;"	t
+TRUE	control.cpp	12;"	d	file:
+TRUE	main.cpp	17;"	d	file:
+TRUNC	bytecodes.h	/^  TRUNC                         = 21,   \/\/!< Truncate       r = (float)((int)(x * pow(y))) \/ pow(y)$/;"	e	enum:__anon21
+TST_ACCU_SWITCH	bytecodes.h	/^  TST_ACCU_SWITCH               = 19,$/;"	e	enum:__anon22
+TST_BOOT_MODE2	bytecodes.h	/^  TST_BOOT_MODE2                = 20,$/;"	e	enum:__anon22
+TST_CLOSE	bytecodes.h	/^  TST_CLOSE                     = 11,$/;"	e	enum:__anon22
+TST_CLOSE_MODE2	bytecodes.h	/^  TST_CLOSE_MODE2               = 22,$/;"	e	enum:__anon22
+TST_DISABLE_UART	bytecodes.h	/^  TST_DISABLE_UART              = 18,$/;"	e	enum:__anon22
+TST_ENABLE_UART	bytecodes.h	/^  TST_ENABLE_UART               = 17,$/;"	e	enum:__anon22
+TST_OPEN	bytecodes.h	/^  TST_OPEN                      = 10,   \/\/!< MUST BE GREATER OR EQUAL TO "INFO_SUBCODES"$/;"	e	enum:__anon22
+TST_POLL_MODE2	bytecodes.h	/^  TST_POLL_MODE2                = 21,$/;"	e	enum:__anon22
+TST_RAM_CHECK	bytecodes.h	/^  TST_RAM_CHECK                 = 23,$/;"	e	enum:__anon22
+TST_READ_ADC	bytecodes.h	/^  TST_READ_ADC                  = 14,$/;"	e	enum:__anon22
+TST_READ_PINS	bytecodes.h	/^  TST_READ_PINS                 = 12,$/;"	e	enum:__anon22
+TST_READ_UART	bytecodes.h	/^  TST_READ_UART                 = 16,$/;"	e	enum:__anon22
+TST_SUBCODE	bytecodes.h	/^TST_SUBCODE;$/;"	t	typeref:enum:__anon22
+TST_SUBCODES	bytecodes.h	/^  TST_SUBCODES$/;"	e	enum:__anon22
+TST_WRITE_PINS	bytecodes.h	/^  TST_WRITE_PINS                = 13,$/;"	e	enum:__anon22
+TST_WRITE_UART	bytecodes.h	/^  TST_WRITE_UART                = 15,$/;"	e	enum:__anon22
+TYPE	bytecodes.h	/^TYPE;$/;"	t	typeref:enum:__anon18
+TYPE_BYTECODE	bytecodes.h	/^  TYPE_BYTECODE                 = 0x03,$/;"	e	enum:__anon34
+TYPE_COLOR	bytecodes.h	/^  TYPE_COLOR                    =  29,  \/\/!< Device is EV3 color sensor$/;"	e	enum:__anon18
+TYPE_DATALOG	bytecodes.h	/^  TYPE_DATALOG                  = 0x05,$/;"	e	enum:__anon34
+TYPE_ENERGYMETER	bytecodes.h	/^  TYPE_ENERGYMETER              =  99,  \/\/!< Device is energy meter$/;"	e	enum:__anon18
+TYPE_ERROR	bytecodes.h	/^  TYPE_ERROR                    = 127,  \/\/!< Port not empty and type is invalid$/;"	e	enum:__anon18
+TYPE_FOLDER	bytecodes.h	/^  TYPE_FOLDER                   = 0x01,$/;"	e	enum:__anon34
+TYPE_GRAPHICS	bytecodes.h	/^  TYPE_GRAPHICS                 = 0x04,$/;"	e	enum:__anon34
+TYPE_GYRO	bytecodes.h	/^  TYPE_GYRO                     =  32,  \/\/!< Device is EV3 gyro sensor$/;"	e	enum:__anon18
+TYPE_IIC_UNKNOWN	bytecodes.h	/^  TYPE_IIC_UNKNOWN              = 100,  \/\/!< Device type is not known yet$/;"	e	enum:__anon18
+TYPE_IR	bytecodes.h	/^  TYPE_IR                       =  33,  \/\/!< Device is EV3 IR sensor$/;"	e	enum:__anon18
+TYPE_KEEP	bytecodes.h	/^  TYPE_KEEP                     =   0,  \/\/!< Type value that won't change type in byte codes$/;"	e	enum:__anon18
+TYPE_LIGHT	control.cpp	107;"	d	file:
+TYPE_MINITACHO	bytecodes.h	/^  TYPE_MINITACHO                =   8,  \/\/!< Device is EV3 mini tacho motor$/;"	e	enum:__anon18
+TYPE_NEWTACHO	bytecodes.h	/^  TYPE_NEWTACHO                 =   9,  \/\/!< Device is EV3 new tacho motor$/;"	e	enum:__anon18
+TYPE_NONE	bytecodes.h	/^  TYPE_NONE                     = 126,  \/\/!< Port empty or not available$/;"	e	enum:__anon18
+TYPE_NXT_COLOR	bytecodes.h	/^  TYPE_NXT_COLOR                =   4,  \/\/!< Device is NXT color sensor$/;"	e	enum:__anon18
+TYPE_NXT_IIC	bytecodes.h	/^  TYPE_NXT_IIC                  = 123,  \/\/!< Device is NXT IIC sensor$/;"	e	enum:__anon18
+TYPE_NXT_LIGHT	bytecodes.h	/^  TYPE_NXT_LIGHT                =   2,  \/\/!< Device is NXT light sensor$/;"	e	enum:__anon18
+TYPE_NXT_SOUND	bytecodes.h	/^  TYPE_NXT_SOUND                =   3,  \/\/!< Device is NXT sound sensor$/;"	e	enum:__anon18
+TYPE_NXT_TEMPERATURE	bytecodes.h	/^  TYPE_NXT_TEMPERATURE          =   6,  \/\/!< Device is NXT temperature sensor$/;"	e	enum:__anon18
+TYPE_NXT_TEST	bytecodes.h	/^  TYPE_NXT_TEST                 = 101,  \/\/!< Device is a NXT ADC test sensor$/;"	e	enum:__anon18
+TYPE_NXT_TOUCH	bytecodes.h	/^  TYPE_NXT_TOUCH                =   1,  \/\/!< Device is NXT touch sensor$/;"	e	enum:__anon18
+TYPE_NXT_ULTRASONIC	bytecodes.h	/^  TYPE_NXT_ULTRASONIC           =   5,  \/\/!< Device is NXT ultra sonic sensor$/;"	e	enum:__anon18
+TYPE_PROGRAM	bytecodes.h	/^  TYPE_PROGRAM                  = 0x06,$/;"	e	enum:__anon34
+TYPE_REFRESH_BROWSER	bytecodes.h	/^  TYPE_REFRESH_BROWSER          = -2$/;"	e	enum:__anon34
+TYPE_RESTART_BROWSER	bytecodes.h	/^  TYPE_RESTART_BROWSER          = -1,$/;"	e	enum:__anon34
+TYPE_SDCARD	bytecodes.h	/^  TYPE_SDCARD                   = 0x10,$/;"	e	enum:__anon34
+TYPE_SOUND	bytecodes.h	/^  TYPE_SOUND                    = 0x02,$/;"	e	enum:__anon34
+TYPE_TACHO	bytecodes.h	/^  TYPE_TACHO                    =   7,  \/\/!< Device is EV3\/NXT tacho motor$/;"	e	enum:__anon18
+TYPE_TERMINAL	bytecodes.h	/^  TYPE_TERMINAL                 = 124,  \/\/!< Port is connected to a terminal$/;"	e	enum:__anon18
+TYPE_TEXT	bytecodes.h	/^  TYPE_TEXT                     = 0x07,$/;"	e	enum:__anon34
+TYPE_THIRD_PARTY_END	bytecodes.h	/^  TYPE_THIRD_PARTY_END          =  98,$/;"	e	enum:__anon18
+TYPE_THIRD_PARTY_START	bytecodes.h	/^  TYPE_THIRD_PARTY_START        =  50,$/;"	e	enum:__anon18
+TYPE_TOUCH	bytecodes.h	/^  TYPE_TOUCH                    =  16,  \/\/!< Device is EV3 touch sensor$/;"	e	enum:__anon18
+TYPE_ULTRASONIC	bytecodes.h	/^  TYPE_ULTRASONIC               =  30,  \/\/!< Device is EV3 ultra sonic sensor$/;"	e	enum:__anon18
+TYPE_UNKNOWN	bytecodes.h	/^  TYPE_UNKNOWN                  = 125,  \/\/!< Port not empty but type has not been determined$/;"	e	enum:__anon18
+TYPE_USBSTICK	bytecodes.h	/^  TYPE_USBSTICK                 = 0x20,$/;"	e	enum:__anon34
+TYPE_USONIC	control.cpp	85;"	d	file:
+TriggerCount	lmstypes.h	/^  TRIGGER TriggerCount;                 \/\/!< Used to determine how many triggers needed before the BLOCK object is activated$/;"	m	struct:__anon46
+UBYTE	lmstypes.h	/^typedef   LEGO::UInt8           UBYTE;  \/\/!< Basic Type used to symbolise 8  bit unsigned values$/;"	t
+UBYTE	lmstypes.h	/^typedef   unsigned char         UBYTE;  \/\/!< Basic Type used to symbolise 8  bit unsigned values$/;"	t
+UI_BUTTON_SUBCODE	bytecodes.h	/^UI_BUTTON_SUBCODE;$/;"	t	typeref:enum:__anon4
+UI_BUTTON_SUBCODES	bytecodes.h	/^  UI_BUTTON_SUBCODES$/;"	e	enum:__anon4
+UI_DRAW_SUBCODE	bytecodes.h	/^UI_DRAW_SUBCODE;$/;"	t	typeref:enum:__anon11
+UI_DRAW_SUBCODES	bytecodes.h	/^  UI_DRAW_SUBCODES$/;"	e	enum:__anon11
+UI_READ_SUBCODE	bytecodes.h	/^UI_READ_SUBCODE;$/;"	t	typeref:enum:__anon2
+UI_READ_SUBCODES	bytecodes.h	/^  UI_READ_SUBCODES$/;"	e	enum:__anon2
+UI_WRITE_SUBCODE	bytecodes.h	/^UI_WRITE_SUBCODE;$/;"	t	typeref:enum:__anon3
+UI_WRITE_SUBCODES	bytecodes.h	/^  UI_WRITE_SUBCODES$/;"	e	enum:__anon3
+ULONG	lmstypes.h	/^typedef   unsigned int          ULONG;  \/\/!< Basic Type used to symbolise 32 bit unsigned values$/;"	t
+ULONG	lmstypes.h	/^typedef   unsigned long         ULONG;  \/\/!< Basic Type used to symbolise 32 bit unsigned values$/;"	t
+UNPACK	bytecodes.h	/^  UNPACK              = 22,$/;"	e	enum:__anon14
+UPDATE	bytecodes.h	/^  UPDATE        = 0,$/;"	e	enum:__anon11
+UPDATE_RUN	bytecodes.h	/^  UPDATE_RUN    = 26,$/;"	e	enum:__anon3
+UP_BUTTON	bytecodes.h	/^  UP_BUTTON                     = 1,$/;"	e	enum:__anon20
+USER_SLOT	bytecodes.h	/^  USER_SLOT                     = 1,    \/\/!< Program slot used to execute user projects, apps and tools$/;"	e	enum:__anon19
+UWORD	lmstypes.h	/^typedef   LEGO::UInt16          UWORD;  \/\/!< Basic Type used to symbolise 16 bit unsigned values$/;"	t
+UWORD	lmstypes.h	/^typedef   unsigned short        UWORD;  \/\/!< Basic Type used to symbolise 16 bit unsigned values$/;"	t
+VALUE	bytecodes.h	/^  VALUE         = 8,$/;"	e	enum:__anon11
+VALUE16	bytecodes.h	/^  VALUE16       = 10,$/;"	e	enum:__anon3
+VALUE32	bytecodes.h	/^  VALUE32       = 11,$/;"	e	enum:__anon3
+VALUE8	bytecodes.h	/^  VALUE8        = 9,$/;"	e	enum:__anon3
+VALUEF	bytecodes.h	/^  VALUEF        = 12,$/;"	e	enum:__anon3
+VALUE_FORMATTED	bytecodes.h	/^  VALUE_FORMATTED     = 11,$/;"	e	enum:__anon17
+VALUE_TO_STRING	bytecodes.h	/^  VALUE_TO_STRING     = 6,$/;"	e	enum:__anon17
+VARDATA	lmstypes.h	/^typedef   UBYTE             VARDATA;    \/\/!< Variable base type$/;"	t
+VERTBAR	bytecodes.h	/^  VERTBAR       = 15,$/;"	e	enum:__anon11
+VIEW_UNIT	bytecodes.h	/^  VIEW_UNIT     = 23,$/;"	e	enum:__anon11
+VIEW_VALUE	bytecodes.h	/^  VIEW_VALUE    = 22,$/;"	e	enum:__anon11
+VMTHREADHeader	bytecodes.h	1651;"	d
+VersionInfo	lmstypes.h	/^  UWORD   VersionInfo;                  \/\/!< Version identifier$/;"	m	struct:__anon45
+WAITING	bytecodes.h	/^  WAITING = 0x0020,                     \/\/!< Object is waiting for final trigger$/;"	e	enum:__anon43
+WAIT_FOR_PRESS	bytecodes.h	/^  WAIT_FOR_PRESS  = 3,$/;"	e	enum:__anon4
+WAIT_HORZ	bytecodes.h	/^  WAIT_HORZ                     = 6,$/;"	e	enum:__anon28
+WAIT_KEY	line.cpp	32;"	d	file:
+WAIT_KEY	main.cpp	157;"	d	file:
+WAIT_KEY	qr.cpp	18;"	d	file:
+WAIT_VERT	bytecodes.h	/^  WAIT_VERT                     = 5,$/;"	e	enum:__anon28
+WARNING	bytecodes.h	/^WARNING;$/;"	t	typeref:enum:__anon42
+WARNINGS	bytecodes.h	/^  WARNINGS          = 0x3F$/;"	e	enum:__anon42
+WARNING_BATTLOW	bytecodes.h	/^  WARNING_BATTLOW   = 0x40,$/;"	e	enum:__anon42
+WARNING_BUSY	bytecodes.h	/^  WARNING_BUSY      = 0x80,$/;"	e	enum:__anon42
+WARNING_CURRENT	bytecodes.h	/^  WARNING_CURRENT   = 0x02,$/;"	e	enum:__anon42
+WARNING_DSPSTAT	bytecodes.h	/^  WARNING_DSPSTAT   = 0x10,$/;"	e	enum:__anon42
+WARNING_MEMORY	bytecodes.h	/^  WARNING_MEMORY    = 0x08,$/;"	e	enum:__anon42
+WARNING_RAM	bytecodes.h	/^  WARNING_RAM       = 0x20,$/;"	e	enum:__anon42
+WARNING_TEMP	bytecodes.h	/^  WARNING_TEMP      = 0x01,$/;"	e	enum:__anon42
+WARNING_VOLTAGE	bytecodes.h	/^  WARNING_VOLTAGE   = 0x04,$/;"	e	enum:__anon42
+WARNSIGN	bytecodes.h	/^  WARNSIGN                      = 8,$/;"	e	enum:__anon28
+WARN_BATT	bytecodes.h	/^  WARN_BATT                     = 9,$/;"	e	enum:__anon28
+WARN_MEMORY	bytecodes.h	/^  WARN_MEMORY                   = 27,$/;"	e	enum:__anon28
+WARN_POWER	bytecodes.h	/^  WARN_POWER                    = 10,$/;"	e	enum:__anon28
+WARN_TEMP	bytecodes.h	/^  WARN_TEMP                     = 11,$/;"	e	enum:__anon28
+WHITECOLOR	bytecodes.h	/^  WHITECOLOR   = 6$/;"	e	enum:__anon41
+WORDToBytes	bytecodes.h	1645;"	d
+WRITE_BYTES	bytecodes.h	/^  WRITE_BYTES         = 29,$/;"	e	enum:__anon12
+WRITE_CONTENT	bytecodes.h	/^  WRITE_CONTENT       = 14,$/;"	e	enum:__anon13
+WRITE_FLUSH	bytecodes.h	/^  WRITE_FLUSH   = 1,$/;"	e	enum:__anon3
+WRITE_LOG	bytecodes.h	/^  WRITE_LOG           = 16,$/;"	e	enum:__anon12
+WRITE_TEXT	bytecodes.h	/^  WRITE_TEXT          = 6,$/;"	e	enum:__anon12
+WRITE_VALUE	bytecodes.h	/^  WRITE_VALUE         = 4,$/;"	e	enum:__anon12
+YELLOWCOLOR	bytecodes.h	/^  YELLOWCOLOR  = 4,$/;"	e	enum:__anon41
+YES_NOTSEL	bytecodes.h	/^  YES_NOTSEL                    = 0,$/;"	e	enum:__anon28
+YES_SEL	bytecodes.h	/^  YES_SEL                       = 1,$/;"	e	enum:__anon28
+array	line.cpp	/^	uchar *array;$/;"	m	class:Pattern	file:
+array	main.cpp	/^	uchar *array;$/;"	m	class:Pattern	file:
+calcAngle	line.cpp	/^double calcAngle(vector<Point> vp){$/;"	f
+calcAngle	main.cpp	/^double calcAngle(vector<Point> vp){$/;"	f
+data	line.cpp	/^	uchar *data(){ return this->array; }$/;"	f	class:Pattern
+data	main.cpp	/^	uchar *data(){ return this->array; }$/;"	f	class:Pattern
+detectLine	line.cpp	/^vector<Point> detectLine(Mat grey){$/;"	f
+detectLine	main.cpp	/^vector<Point> detectLine(Mat grey){$/;"	f
+dir	line.cpp	/^	Direction dir;$/;"	m	class:Pattern	file:
+dir	main.cpp	/^	Direction dir;$/;"	m	class:Pattern	file:
+direct_reply_buf	control.cpp	/^char direct_reply_buf[MAX_BUF_LEN] = {0, };$/;"	v
+direct_reply_buf	main.cpp	/^char direct_reply_buf[MAX_BUF_LEN] = {0, };$/;"	v
+direction	line.cpp	/^	Direction direction(){ return this->dir; }$/;"	f	class:Pattern
+direction	main.cpp	/^	Direction direction(){ return this->dir; }$/;"	f	class:Pattern
+findLongestPattern	line.cpp	/^int findLongestPattern(Pattern *p, int *end){$/;"	f
+findLongestPattern	main.cpp	/^int findLongestPattern(Pattern *p, int *end){$/;"	f
+get_command_length	control.cpp	/^int get_command_length(char *p, int maxlen) {$/;"	f
+get_command_length	main.cpp	/^int get_command_length(char *p, int maxlen) {$/;"	f
+get_key	control.cpp	/^char get_key(void) {$/;"	f
+get_key	main.cpp	/^char get_key(void) {$/;"	f
+isConnected	line.cpp	/^int isConnected(vector<Point> vp, Mat m){$/;"	f
+isConnected	main.cpp	/^int isConnected(vector<Point> vp, Mat m){$/;"	f
+left_light_command_buf	control.cpp	/^char left_light_command_buf[MAX_BUF_LEN] = {$/;"	v
+main	control.cpp	/^int main(int argc, char* argv[]) {$/;"	f
+main	line.cpp	/^int main(int argc, char* argv[]){$/;"	f
+main	main.cpp	/^int main(int argc, char* argv[]) {$/;"	f
+main	qr.cpp	/^int main(int argc, char* argv[]){$/;"	f
+motor_command_buf	control.cpp	/^char motor_command_buf[MAX_BUF_LEN] = {$/;"	v
+motor_command_buf	main.cpp	/^char motor_command_buf[MAX_BUF_LEN] = {$/;"	v
+n	line.cpp	/^	int n;$/;"	m	class:Pattern	file:
+n	main.cpp	/^	int n;$/;"	m	class:Pattern	file:
+opADD16	bytecodes.h	/^  opADD16                     = 0x11, \/\/        01$/;"	e	enum:__anon1
+opADD32	bytecodes.h	/^  opADD32                     = 0x12, \/\/        10$/;"	e	enum:__anon1
+opADD8	bytecodes.h	/^  opADD8                      = 0x10, \/\/        00$/;"	e	enum:__anon1
+opADDF	bytecodes.h	/^  opADDF                      = 0x13, \/\/        11$/;"	e	enum:__anon1
+opAND16	bytecodes.h	/^  opAND16                     = 0x25, \/\/        01$/;"	e	enum:__anon1
+opAND32	bytecodes.h	/^  opAND32                     = 0x26, \/\/        10$/;"	e	enum:__anon1
+opAND8	bytecodes.h	/^  opAND8                      = 0x24, \/\/        00$/;"	e	enum:__anon1
+opARRAY	bytecodes.h	/^  opARRAY                     = 0xC1, \/\/       001$/;"	e	enum:__anon1
+opARRAY_APPEND	bytecodes.h	/^  opARRAY_APPEND              = 0xC4, \/\/       100$/;"	e	enum:__anon1
+opARRAY_READ	bytecodes.h	/^  opARRAY_READ                = 0xC3, \/\/       011$/;"	e	enum:__anon1
+opARRAY_WRITE	bytecodes.h	/^  opARRAY_WRITE               = 0xC2, \/\/       010$/;"	e	enum:__anon1
+opBP0	bytecodes.h	/^  opBP0                       = 0x88, \/\/       000$/;"	e	enum:__anon1
+opBP1	bytecodes.h	/^  opBP1                       = 0x89, \/\/       001$/;"	e	enum:__anon1
+opBP2	bytecodes.h	/^  opBP2                       = 0x8A, \/\/       010$/;"	e	enum:__anon1
+opBP3	bytecodes.h	/^  opBP3                       = 0x8B, \/\/       011$/;"	e	enum:__anon1
+opBP_SET	bytecodes.h	/^  opBP_SET                    = 0x8C, \/\/  10001100$/;"	e	enum:__anon1
+opCALL	bytecodes.h	/^  opCALL                      = 0x09, \/\/      1001$/;"	e	enum:__anon1
+opCOM_GET	bytecodes.h	/^  opCOM_GET                   = 0xD3, \/\/       011$/;"	e	enum:__anon1
+opCOM_READ	bytecodes.h	/^  opCOM_READ                  = 0x91, \/\/        01$/;"	e	enum:__anon1
+opCOM_READDATA	bytecodes.h	/^  opCOM_READDATA              = 0xD1, \/\/       001$/;"	e	enum:__anon1
+opCOM_READY	bytecodes.h	/^  opCOM_READY                 = 0xD0, \/\/       000$/;"	e	enum:__anon1
+opCOM_REMOVE	bytecodes.h	/^  opCOM_REMOVE                = 0xD6, \/\/       110$/;"	e	enum:__anon1
+opCOM_SET	bytecodes.h	/^  opCOM_SET                   = 0xD4, \/\/       100$/;"	e	enum:__anon1
+opCOM_TEST	bytecodes.h	/^  opCOM_TEST                  = 0xD5, \/\/       101$/;"	e	enum:__anon1
+opCOM_WRITE	bytecodes.h	/^  opCOM_WRITE                 = 0x92, \/\/        10$/;"	e	enum:__anon1
+opCOM_WRITEDATA	bytecodes.h	/^  opCOM_WRITEDATA             = 0xD2, \/\/       010$/;"	e	enum:__anon1
+opCOM_WRITEFILE	bytecodes.h	/^  opCOM_WRITEFILE             = 0xD7, \/\/       111$/;"	e	enum:__anon1
+opCP_EQ16	bytecodes.h	/^  opCP_EQ16                   = 0x4D, \/\/        01$/;"	e	enum:__anon1
+opCP_EQ32	bytecodes.h	/^  opCP_EQ32                   = 0x4E, \/\/        10$/;"	e	enum:__anon1
+opCP_EQ8	bytecodes.h	/^  opCP_EQ8                    = 0x4C, \/\/        00$/;"	e	enum:__anon1
+opCP_EQF	bytecodes.h	/^  opCP_EQF                    = 0x4F, \/\/        11$/;"	e	enum:__anon1
+opCP_GT16	bytecodes.h	/^  opCP_GT16                   = 0x49, \/\/        01$/;"	e	enum:__anon1
+opCP_GT32	bytecodes.h	/^  opCP_GT32                   = 0x4A, \/\/        10$/;"	e	enum:__anon1
+opCP_GT8	bytecodes.h	/^  opCP_GT8                    = 0x48, \/\/        00$/;"	e	enum:__anon1
+opCP_GTEQ16	bytecodes.h	/^  opCP_GTEQ16                 = 0x59, \/\/        01$/;"	e	enum:__anon1
+opCP_GTEQ32	bytecodes.h	/^  opCP_GTEQ32                 = 0x5A, \/\/        10$/;"	e	enum:__anon1
+opCP_GTEQ8	bytecodes.h	/^  opCP_GTEQ8                  = 0x58, \/\/        00$/;"	e	enum:__anon1
+opCP_GTEQF	bytecodes.h	/^  opCP_GTEQF                  = 0x5B, \/\/        11$/;"	e	enum:__anon1
+opCP_GTF	bytecodes.h	/^  opCP_GTF                    = 0x4B, \/\/        11$/;"	e	enum:__anon1
+opCP_LT16	bytecodes.h	/^  opCP_LT16                   = 0x45, \/\/        01$/;"	e	enum:__anon1
+opCP_LT32	bytecodes.h	/^  opCP_LT32                   = 0x46, \/\/        10$/;"	e	enum:__anon1
+opCP_LT8	bytecodes.h	/^  opCP_LT8                    = 0x44, \/\/        00$/;"	e	enum:__anon1
+opCP_LTEQ16	bytecodes.h	/^  opCP_LTEQ16                 = 0x55, \/\/        01$/;"	e	enum:__anon1
+opCP_LTEQ32	bytecodes.h	/^  opCP_LTEQ32                 = 0x56, \/\/        10$/;"	e	enum:__anon1
+opCP_LTEQ8	bytecodes.h	/^  opCP_LTEQ8                  = 0x54, \/\/        00$/;"	e	enum:__anon1
+opCP_LTEQF	bytecodes.h	/^  opCP_LTEQF                  = 0x57, \/\/        11$/;"	e	enum:__anon1
+opCP_LTF	bytecodes.h	/^  opCP_LTF                    = 0x47, \/\/        11$/;"	e	enum:__anon1
+opCP_NEQ16	bytecodes.h	/^  opCP_NEQ16                  = 0x51, \/\/        01$/;"	e	enum:__anon1
+opCP_NEQ32	bytecodes.h	/^  opCP_NEQ32                  = 0x52, \/\/        10$/;"	e	enum:__anon1
+opCP_NEQ8	bytecodes.h	/^  opCP_NEQ8                   = 0x50, \/\/        00$/;"	e	enum:__anon1
+opCP_NEQF	bytecodes.h	/^  opCP_NEQF                   = 0x53, \/\/        11$/;"	e	enum:__anon1
+opDIV16	bytecodes.h	/^  opDIV16                     = 0x1D, \/\/        01$/;"	e	enum:__anon1
+opDIV32	bytecodes.h	/^  opDIV32                     = 0x1E, \/\/        10$/;"	e	enum:__anon1
+opDIV8	bytecodes.h	/^  opDIV8                      = 0x1C, \/\/        00$/;"	e	enum:__anon1
+opDIVF	bytecodes.h	/^  opDIVF                      = 0x1F, \/\/        11$/;"	e	enum:__anon1
+opDO	bytecodes.h	/^  opDO                        = 0x0F, \/\/      1111$/;"	e	enum:__anon1
+opERROR	bytecodes.h	/^  opERROR                     = 0x00, \/\/      0000$/;"	e	enum:__anon1
+opFILE	bytecodes.h	/^  opFILE                      = 0xC0, \/\/       000$/;"	e	enum:__anon1
+opFILENAME	bytecodes.h	/^  opFILENAME                  = 0xC6, \/\/       110$/;"	e	enum:__anon1
+opINFO	bytecodes.h	/^  opINFO                      = 0x7C, \/\/  01111100$/;"	e	enum:__anon1
+opINIT_BYTES	bytecodes.h	/^  opINIT_BYTES                = 0x2F, \/\/      1111$/;"	e	enum:__anon1
+opINPUT_DEVICE	bytecodes.h	/^  opINPUT_DEVICE              = 0x99, \/\/       001$/;"	e	enum:__anon1
+opINPUT_DEVICE_LIST	bytecodes.h	/^  opINPUT_DEVICE_LIST         = 0x98, \/\/       000$/;"	e	enum:__anon1
+opINPUT_READ	bytecodes.h	/^  opINPUT_READ                = 0x9A, \/\/       010$/;"	e	enum:__anon1
+opINPUT_READEXT	bytecodes.h	/^  opINPUT_READEXT             = 0x9E, \/\/       110$/;"	e	enum:__anon1
+opINPUT_READSI	bytecodes.h	/^  opINPUT_READSI              = 0x9D, \/\/       101$/;"	e	enum:__anon1
+opINPUT_READY	bytecodes.h	/^  opINPUT_READY               = 0x9C, \/\/       100$/;"	e	enum:__anon1
+opINPUT_SAMPLE	bytecodes.h	/^  opINPUT_SAMPLE              = 0x97, \/\/  10010111$/;"	e	enum:__anon1
+opINPUT_TEST	bytecodes.h	/^  opINPUT_TEST                = 0x9B, \/\/       011$/;"	e	enum:__anon1
+opINPUT_WRITE	bytecodes.h	/^  opINPUT_WRITE               = 0x9F, \/\/       111$/;"	e	enum:__anon1
+opJR	bytecodes.h	/^  opJR                        = 0x40, \/\/        00$/;"	e	enum:__anon1
+opJR_EQ16	bytecodes.h	/^  opJR_EQ16                   = 0x6D, \/\/        01$/;"	e	enum:__anon1
+opJR_EQ32	bytecodes.h	/^  opJR_EQ32                   = 0x6E, \/\/        10$/;"	e	enum:__anon1
+opJR_EQ8	bytecodes.h	/^  opJR_EQ8                    = 0x6C, \/\/        00$/;"	e	enum:__anon1
+opJR_EQF	bytecodes.h	/^  opJR_EQF                    = 0x6F, \/\/        11$/;"	e	enum:__anon1
+opJR_FALSE	bytecodes.h	/^  opJR_FALSE                  = 0x41, \/\/        01$/;"	e	enum:__anon1
+opJR_GT16	bytecodes.h	/^  opJR_GT16                   = 0x69, \/\/        01$/;"	e	enum:__anon1
+opJR_GT32	bytecodes.h	/^  opJR_GT32                   = 0x6A, \/\/        10$/;"	e	enum:__anon1
+opJR_GT8	bytecodes.h	/^  opJR_GT8                    = 0x68, \/\/        00$/;"	e	enum:__anon1
+opJR_GTEQ16	bytecodes.h	/^  opJR_GTEQ16                 = 0x79, \/\/        01$/;"	e	enum:__anon1
+opJR_GTEQ32	bytecodes.h	/^  opJR_GTEQ32                 = 0x7A, \/\/        10$/;"	e	enum:__anon1
+opJR_GTEQ8	bytecodes.h	/^  opJR_GTEQ8                  = 0x78, \/\/        00$/;"	e	enum:__anon1
+opJR_GTEQF	bytecodes.h	/^  opJR_GTEQF                  = 0x7B, \/\/        11$/;"	e	enum:__anon1
+opJR_GTF	bytecodes.h	/^  opJR_GTF                    = 0x6B, \/\/        11$/;"	e	enum:__anon1
+opJR_LT16	bytecodes.h	/^  opJR_LT16                   = 0x65, \/\/        01$/;"	e	enum:__anon1
+opJR_LT32	bytecodes.h	/^  opJR_LT32                   = 0x66, \/\/        10$/;"	e	enum:__anon1
+opJR_LT8	bytecodes.h	/^  opJR_LT8                    = 0x64, \/\/        00$/;"	e	enum:__anon1
+opJR_LTEQ16	bytecodes.h	/^  opJR_LTEQ16                 = 0x75, \/\/        01$/;"	e	enum:__anon1
+opJR_LTEQ32	bytecodes.h	/^  opJR_LTEQ32                 = 0x76, \/\/        10$/;"	e	enum:__anon1
+opJR_LTEQ8	bytecodes.h	/^  opJR_LTEQ8                  = 0x74, \/\/        00$/;"	e	enum:__anon1
+opJR_LTEQF	bytecodes.h	/^  opJR_LTEQF                  = 0x77, \/\/        11$/;"	e	enum:__anon1
+opJR_LTF	bytecodes.h	/^  opJR_LTF                    = 0x67, \/\/        11$/;"	e	enum:__anon1
+opJR_NAN	bytecodes.h	/^  opJR_NAN                    = 0x43, \/\/        11$/;"	e	enum:__anon1
+opJR_NEQ16	bytecodes.h	/^  opJR_NEQ16                  = 0x71, \/\/        01$/;"	e	enum:__anon1
+opJR_NEQ32	bytecodes.h	/^  opJR_NEQ32                  = 0x72, \/\/        10$/;"	e	enum:__anon1
+opJR_NEQ8	bytecodes.h	/^  opJR_NEQ8                   = 0x70, \/\/        00$/;"	e	enum:__anon1
+opJR_NEQF	bytecodes.h	/^  opJR_NEQF                   = 0x73, \/\/        11$/;"	e	enum:__anon1
+opJR_TRUE	bytecodes.h	/^  opJR_TRUE                   = 0x42, \/\/        10$/;"	e	enum:__anon1
+opKEEP_ALIVE	bytecodes.h	/^  opKEEP_ALIVE                = 0x90, \/\/  10010000$/;"	e	enum:__anon1
+opLABEL	bytecodes.h	/^  opLABEL                     = 0x0D, \/\/      1101$/;"	e	enum:__anon1
+opMAILBOX_CLOSE	bytecodes.h	/^  opMAILBOX_CLOSE             = 0xDD, \/\/       101$/;"	e	enum:__anon1
+opMAILBOX_OPEN	bytecodes.h	/^  opMAILBOX_OPEN              = 0xD8, \/\/       000$/;"	e	enum:__anon1
+opMAILBOX_READ	bytecodes.h	/^  opMAILBOX_READ              = 0xDA, \/\/       010$/;"	e	enum:__anon1
+opMAILBOX_READY	bytecodes.h	/^  opMAILBOX_READY             = 0xDC, \/\/       100$/;"	e	enum:__anon1
+opMAILBOX_TEST	bytecodes.h	/^  opMAILBOX_TEST              = 0xDB, \/\/       011$/;"	e	enum:__anon1
+opMAILBOX_WRITE	bytecodes.h	/^  opMAILBOX_WRITE             = 0xD9, \/\/       001$/;"	e	enum:__anon1
+opMATH	bytecodes.h	/^  opMATH                      = 0x8D, \/\/  10001101$/;"	e	enum:__anon1
+opMEMORY_READ	bytecodes.h	/^  opMEMORY_READ               = 0x7F, \/\/  01111111$/;"	e	enum:__anon1
+opMEMORY_USAGE	bytecodes.h	/^  opMEMORY_USAGE              = 0xC5, \/\/       101$/;"	e	enum:__anon1
+opMEMORY_WRITE	bytecodes.h	/^  opMEMORY_WRITE              = 0x7E, \/\/  01111110$/;"	e	enum:__anon1
+opMOVE16_16	bytecodes.h	/^  opMOVE16_16                 = 0x35, \/\/        01$/;"	e	enum:__anon1
+opMOVE16_32	bytecodes.h	/^  opMOVE16_32                 = 0x36, \/\/        10$/;"	e	enum:__anon1
+opMOVE16_8	bytecodes.h	/^  opMOVE16_8                  = 0x34, \/\/        00$/;"	e	enum:__anon1
+opMOVE16_F	bytecodes.h	/^  opMOVE16_F                  = 0x37, \/\/        11$/;"	e	enum:__anon1
+opMOVE32_16	bytecodes.h	/^  opMOVE32_16                 = 0x39, \/\/        01$/;"	e	enum:__anon1
+opMOVE32_32	bytecodes.h	/^  opMOVE32_32                 = 0x3A, \/\/        10$/;"	e	enum:__anon1
+opMOVE32_8	bytecodes.h	/^  opMOVE32_8                  = 0x38, \/\/        00$/;"	e	enum:__anon1
+opMOVE32_F	bytecodes.h	/^  opMOVE32_F                  = 0x3B, \/\/        11$/;"	e	enum:__anon1
+opMOVE8_16	bytecodes.h	/^  opMOVE8_16                  = 0x31, \/\/        01$/;"	e	enum:__anon1
+opMOVE8_32	bytecodes.h	/^  opMOVE8_32                  = 0x32, \/\/        10$/;"	e	enum:__anon1
+opMOVE8_8	bytecodes.h	/^  opMOVE8_8                   = 0x30, \/\/        00$/;"	e	enum:__anon1
+opMOVE8_F	bytecodes.h	/^  opMOVE8_F                   = 0x33, \/\/        11$/;"	e	enum:__anon1
+opMOVEF_16	bytecodes.h	/^  opMOVEF_16                  = 0x3D, \/\/        01$/;"	e	enum:__anon1
+opMOVEF_32	bytecodes.h	/^  opMOVEF_32                  = 0x3E, \/\/        10$/;"	e	enum:__anon1
+opMOVEF_8	bytecodes.h	/^  opMOVEF_8                   = 0x3C, \/\/        00$/;"	e	enum:__anon1
+opMOVEF_F	bytecodes.h	/^  opMOVEF_F                   = 0x3F, \/\/        11$/;"	e	enum:__anon1
+opMUL16	bytecodes.h	/^  opMUL16                     = 0x19, \/\/        01$/;"	e	enum:__anon1
+opMUL32	bytecodes.h	/^  opMUL32                     = 0x1A, \/\/        10$/;"	e	enum:__anon1
+opMUL8	bytecodes.h	/^  opMUL8                      = 0x18, \/\/        00$/;"	e	enum:__anon1
+opMULF	bytecodes.h	/^  opMULF                      = 0x1B, \/\/        11$/;"	e	enum:__anon1
+opNOP	bytecodes.h	/^  opNOP                       = 0x01, \/\/      0001$/;"	e	enum:__anon1
+opNOTE_TO_FREQ	bytecodes.h	/^  opNOTE_TO_FREQ              = 0x63,$/;"	e	enum:__anon1
+opOBJECT_END	bytecodes.h	/^  opOBJECT_END                = 0x0A, \/\/      1010$/;"	e	enum:__anon1
+opOBJECT_START	bytecodes.h	/^  opOBJECT_START              = 0x05, \/\/      0101$/;"	e	enum:__anon1
+opOBJECT_STOP	bytecodes.h	/^  opOBJECT_STOP               = 0x04, \/\/      0100$/;"	e	enum:__anon1
+opOBJECT_TRIG	bytecodes.h	/^  opOBJECT_TRIG               = 0x06, \/\/      0110$/;"	e	enum:__anon1
+opOBJECT_WAIT	bytecodes.h	/^  opOBJECT_WAIT               = 0x07, \/\/      0111$/;"	e	enum:__anon1
+opOR16	bytecodes.h	/^  opOR16                      = 0x21, \/\/        01$/;"	e	enum:__anon1
+opOR32	bytecodes.h	/^  opOR32                      = 0x22, \/\/        10$/;"	e	enum:__anon1
+opOR8	bytecodes.h	/^  opOR8                       = 0x20, \/\/        00$/;"	e	enum:__anon1
+opOUTPUT_CLR_COUNT	bytecodes.h	/^  opOUTPUT_CLR_COUNT          = 0xB2, \/\/     10010$/;"	e	enum:__anon1
+opOUTPUT_GET_COUNT	bytecodes.h	/^  opOUTPUT_GET_COUNT          = 0xB3, \/\/     10011$/;"	e	enum:__anon1
+opOUTPUT_GET_TYPE	bytecodes.h	/^  opOUTPUT_GET_TYPE           = 0xA0, \/\/     00000$/;"	e	enum:__anon1
+opOUTPUT_POLARITY	bytecodes.h	/^  opOUTPUT_POLARITY           = 0xA7, \/\/     00111$/;"	e	enum:__anon1
+opOUTPUT_POSITION	bytecodes.h	/^  opOUTPUT_POSITION           = 0xAB, \/\/     01011$/;"	e	enum:__anon1
+opOUTPUT_POWER	bytecodes.h	/^  opOUTPUT_POWER              = 0xA4, \/\/     00100$/;"	e	enum:__anon1
+opOUTPUT_PRG_STOP	bytecodes.h	/^  opOUTPUT_PRG_STOP           = 0xB4, \/\/     10100$/;"	e	enum:__anon1
+opOUTPUT_READ	bytecodes.h	/^  opOUTPUT_READ               = 0xA8, \/\/     01000$/;"	e	enum:__anon1
+opOUTPUT_READY	bytecodes.h	/^  opOUTPUT_READY              = 0xAA, \/\/     01010$/;"	e	enum:__anon1
+opOUTPUT_RESET	bytecodes.h	/^  opOUTPUT_RESET              = 0xA2, \/\/     00010$/;"	e	enum:__anon1
+opOUTPUT_SET_TYPE	bytecodes.h	/^  opOUTPUT_SET_TYPE           = 0xA1, \/\/     00001$/;"	e	enum:__anon1
+opOUTPUT_SPEED	bytecodes.h	/^  opOUTPUT_SPEED              = 0xA5, \/\/     00101$/;"	e	enum:__anon1
+opOUTPUT_START	bytecodes.h	/^  opOUTPUT_START              = 0xA6, \/\/     00110$/;"	e	enum:__anon1
+opOUTPUT_STEP_POWER	bytecodes.h	/^  opOUTPUT_STEP_POWER         = 0xAC, \/\/     01100$/;"	e	enum:__anon1
+opOUTPUT_STEP_SPEED	bytecodes.h	/^  opOUTPUT_STEP_SPEED         = 0xAE, \/\/     01110$/;"	e	enum:__anon1
+opOUTPUT_STEP_SYNC	bytecodes.h	/^  opOUTPUT_STEP_SYNC          = 0xB0, \/\/     10000$/;"	e	enum:__anon1
+opOUTPUT_STOP	bytecodes.h	/^  opOUTPUT_STOP               = 0xA3, \/\/     00011$/;"	e	enum:__anon1
+opOUTPUT_TEST	bytecodes.h	/^  opOUTPUT_TEST               = 0xA9, \/\/     01001$/;"	e	enum:__anon1
+opOUTPUT_TIME_POWER	bytecodes.h	/^  opOUTPUT_TIME_POWER         = 0xAD, \/\/     01101$/;"	e	enum:__anon1
+opOUTPUT_TIME_SPEED	bytecodes.h	/^  opOUTPUT_TIME_SPEED         = 0xAF, \/\/     01111$/;"	e	enum:__anon1
+opOUTPUT_TIME_SYNC	bytecodes.h	/^  opOUTPUT_TIME_SYNC          = 0xB1, \/\/     10001$/;"	e	enum:__anon1
+opPORT_CNV_INPUT	bytecodes.h	/^  opPORT_CNV_INPUT            = 0x62,$/;"	e	enum:__anon1
+opPORT_CNV_OUTPUT	bytecodes.h	/^  opPORT_CNV_OUTPUT           = 0x61,$/;"	e	enum:__anon1
+opPROBE	bytecodes.h	/^  opPROBE                     = 0x0E, \/\/      1110$/;"	e	enum:__anon1
+opPROGRAM_INFO	bytecodes.h	/^  opPROGRAM_INFO              = 0x0C, \/\/      1100$/;"	e	enum:__anon1
+opPROGRAM_START	bytecodes.h	/^  opPROGRAM_START             = 0x03, \/\/      0011$/;"	e	enum:__anon1
+opPROGRAM_STOP	bytecodes.h	/^  opPROGRAM_STOP              = 0x02, \/\/      0010$/;"	e	enum:__anon1
+opRANDOM	bytecodes.h	/^  opRANDOM                    = 0x8E, \/\/  10001110$/;"	e	enum:__anon1
+opREAD16	bytecodes.h	/^  opREAD16                    = 0xC9, \/\/        01$/;"	e	enum:__anon1
+opREAD32	bytecodes.h	/^  opREAD32                    = 0xCA, \/\/        10$/;"	e	enum:__anon1
+opREAD8	bytecodes.h	/^  opREAD8                     = 0xC8, \/\/        00$/;"	e	enum:__anon1
+opREADF	bytecodes.h	/^  opREADF                     = 0xCB, \/\/        11$/;"	e	enum:__anon1
+opRETURN	bytecodes.h	/^  opRETURN                    = 0x08, \/\/      1000$/;"	e	enum:__anon1
+opRL16	bytecodes.h	/^  opRL16                      = 0x2D, \/\/        01$/;"	e	enum:__anon1
+opRL32	bytecodes.h	/^  opRL32                      = 0x2E, \/\/        10$/;"	e	enum:__anon1
+opRL8	bytecodes.h	/^  opRL8                       = 0x2C, \/\/        00$/;"	e	enum:__anon1
+opSELECT16	bytecodes.h	/^  opSELECT16                  = 0x5D, \/\/        01$/;"	e	enum:__anon1
+opSELECT32	bytecodes.h	/^  opSELECT32                  = 0x5E, \/\/        10$/;"	e	enum:__anon1
+opSELECT8	bytecodes.h	/^  opSELECT8                   = 0x5C, \/\/        00$/;"	e	enum:__anon1
+opSELECTF	bytecodes.h	/^  opSELECTF                   = 0x5F, \/\/        11$/;"	e	enum:__anon1
+opSLEEP	bytecodes.h	/^  opSLEEP                     = 0x0B, \/\/      1011$/;"	e	enum:__anon1
+opSOUND	bytecodes.h	/^  opSOUND                     = 0x94, \/\/        00$/;"	e	enum:__anon1
+opSOUND_READY	bytecodes.h	/^  opSOUND_READY               = 0x96, \/\/        10$/;"	e	enum:__anon1
+opSOUND_TEST	bytecodes.h	/^  opSOUND_TEST                = 0x95, \/\/        01$/;"	e	enum:__anon1
+opSTRINGS	bytecodes.h	/^  opSTRINGS                   = 0x7D, \/\/  01111101$/;"	e	enum:__anon1
+opSUB16	bytecodes.h	/^  opSUB16                     = 0x15, \/\/        01$/;"	e	enum:__anon1
+opSUB32	bytecodes.h	/^  opSUB32                     = 0x16, \/\/        10$/;"	e	enum:__anon1
+opSUB8	bytecodes.h	/^  opSUB8                      = 0x14, \/\/        00$/;"	e	enum:__anon1
+opSUBF	bytecodes.h	/^  opSUBF                      = 0x17, \/\/        11$/;"	e	enum:__anon1
+opSYSTEM	bytecodes.h	/^  opSYSTEM                    = 0x60,$/;"	e	enum:__anon1
+opTIMER_READ	bytecodes.h	/^  opTIMER_READ                = 0x87, \/\/  10000111$/;"	e	enum:__anon1
+opTIMER_READY	bytecodes.h	/^  opTIMER_READY               = 0x86, \/\/  10000110$/;"	e	enum:__anon1
+opTIMER_READ_US	bytecodes.h	/^  opTIMER_READ_US             = 0x8F, \/\/  10001111$/;"	e	enum:__anon1
+opTIMER_WAIT	bytecodes.h	/^  opTIMER_WAIT                = 0x85, \/\/  10000101$/;"	e	enum:__anon1
+opTST	bytecodes.h	/^  opTST                       = 0xFF  \/\/  11111111$/;"	e	enum:__anon1
+opUI_BUTTON	bytecodes.h	/^  opUI_BUTTON                 = 0x83, \/\/        11$/;"	e	enum:__anon1
+opUI_DRAW	bytecodes.h	/^  opUI_DRAW                   = 0x84, \/\/  10000100$/;"	e	enum:__anon1
+opUI_FLUSH	bytecodes.h	/^  opUI_FLUSH                  = 0x80, \/\/        00$/;"	e	enum:__anon1
+opUI_READ	bytecodes.h	/^  opUI_READ                   = 0x81, \/\/        01$/;"	e	enum:__anon1
+opUI_WRITE	bytecodes.h	/^  opUI_WRITE                  = 0x82, \/\/        10$/;"	e	enum:__anon1
+opWRITE16	bytecodes.h	/^  opWRITE16                   = 0xCD, \/\/        01$/;"	e	enum:__anon1
+opWRITE32	bytecodes.h	/^  opWRITE32                   = 0xCE, \/\/        10$/;"	e	enum:__anon1
+opWRITE8	bytecodes.h	/^  opWRITE8                    = 0xCC, \/\/        00$/;"	e	enum:__anon1
+opWRITEF	bytecodes.h	/^  opWRITEF                    = 0xCF, \/\/        11$/;"	e	enum:__anon1
+opXOR16	bytecodes.h	/^  opXOR16                     = 0x29, \/\/        01$/;"	e	enum:__anon1
+opXOR32	bytecodes.h	/^  opXOR32                     = 0x2A, \/\/        10$/;"	e	enum:__anon1
+opXOR8	bytecodes.h	/^  opXOR8                      = 0x28, \/\/        00$/;"	e	enum:__anon1
+printData	line.cpp	/^void printData(Mat m){$/;"	f
+printData	main.cpp	/^void printData(Mat m){$/;"	f
+printUsage	line.cpp	/^void printUsage(const char *argv0){$/;"	f
+printUsage	qr.cpp	/^void printUsage(char *argv0){$/;"	f
+print_buf	control.cpp	/^void print_buf(const char *heading, char *p, int len) {$/;"	f
+print_buf	main.cpp	/^void print_buf(const char *heading, char *p, int len) {$/;"	f
+quantizeMat	line.cpp	/^Mat quantizeMat(Mat m, double adj = BRIGHTNESS_ADJ){$/;"	f
+quantizeMat	main.cpp	/^Mat quantizeMat(Mat m, double adj = BRIGHTNESS_ADJ){$/;"	f
+right_light_command_buf	control.cpp	/^char right_light_command_buf[MAX_BUF_LEN] = {$/;"	v
+set	line.cpp	/^	void set(uchar *array, int n, Direction dir){$/;"	f	class:Pattern
+set	main.cpp	/^	void set(uchar *array, int n, Direction dir){$/;"	f	class:Pattern
+size	line.cpp	/^	int size(){ return this->n; }$/;"	f	class:Pattern
+size	main.cpp	/^	int size(){ return this->n; }$/;"	f	class:Pattern
+toPoint	line.cpp	/^	Point* toPoint(int p){$/;"	f	class:Pattern
+toPoint	main.cpp	/^	Point* toPoint(int p){$/;"	f	class:Pattern
+update_motor_speed	main.cpp	/^int update_motor_speed(int fd, int speed_left, int speed_right){$/;"	f
+usonic_command_buf	control.cpp	/^char usonic_command_buf[MAX_BUF_LEN] = {$/;"	v
+vmAPPS_DIR	bytecodes.h	90;"	d
+vmBG_COLOR	bytecodes.h	58;"	d
+vmBLUETOOTH_FILE_NAME	bytecodes.h	108;"	d
+vmBRICKNAMESIZE	bytecodes.h	123;"	d
+vmBTADRSIZE	bytecodes.h	72;"	d
+vmBTPASSKEYSIZE	bytecodes.h	124;"	d
+vmBUTTONS	bytecodes.h	44;"	d
+vmCALDATA_FILE_NAME	bytecodes.h	101;"	d
+vmCHAIN_DEPT	bytecodes.h	60;"	d
+vmCHARSET_BTPASSKEY	bytecodes.h	131;"	d
+vmCHARSET_FILENAME	bytecodes.h	130;"	d
+vmCHARSET_NAME	bytecodes.h	129;"	d
+vmCHARSET_WIFIPASSKEY	bytecodes.h	132;"	d
+vmCHARSET_WIFISSID	bytecodes.h	133;"	d
+vmDATA16_MAX	bytecodes.h	140;"	d
+vmDATA16_MIN	bytecodes.h	139;"	d
+vmDATA16_NAN	bytecodes.h	147;"	d
+vmDATA32_MAX	bytecodes.h	142;"	d
+vmDATA32_MIN	bytecodes.h	141;"	d
+vmDATA32_NAN	bytecodes.h	148;"	d
+vmDATA8_MAX	bytecodes.h	138;"	d
+vmDATA8_MIN	bytecodes.h	137;"	d
+vmDATA8_NAN	bytecodes.h	146;"	d
+vmDATAF_MAX	bytecodes.h	144;"	d
+vmDATAF_MIN	bytecodes.h	143;"	d
+vmDATAF_NAN	bytecodes.h	149;"	d
+vmDATALOG_FOLDER	bytecodes.h	85;"	d
+vmDEFAULT_SLEEPMINUTES	bytecodes.h	53;"	d
+vmDEFAULT_VOLUME	bytecodes.h	52;"	d
+vmDIR_DEEPT	bytecodes.h	96;"	d
+vmERR_STRING_SIZE	bytecodes.h	74;"	d
+vmEVENT_BT_PIN	bytecodes.h	76;"	d
+vmEVENT_BT_REQ_CONF	bytecodes.h	77;"	d
+vmEXTSIZE	bytecodes.h	68;"	d
+vmEXT_ARCHIVE	bytecodes.h	119;"	d
+vmEXT_BYTECODE	bytecodes.h	114;"	d
+vmEXT_CONFIG	bytecodes.h	118;"	d
+vmEXT_DATALOG	bytecodes.h	116;"	d
+vmEXT_GRAPHICS	bytecodes.h	113;"	d
+vmEXT_PROGRAM	bytecodes.h	117;"	d
+vmEXT_SOUND	bytecodes.h	112;"	d
+vmEXT_TEXT	bytecodes.h	115;"	d
+vmFG_COLOR	bytecodes.h	57;"	d
+vmFILENAMESIZE	bytecodes.h	69;"	d
+vmINPUTS	bytecodes.h	43;"	d
+vmIPSIZE	bytecodes.h	71;"	d
+vmLASTRUN_FILE_NAME	bytecodes.h	100;"	d
+vmLCD_HEIGHT	bytecodes.h	48;"	d
+vmLCD_STORE_LEVELS	bytecodes.h	50;"	d
+vmLCD_WIDTH	bytecodes.h	47;"	d
+vmLEDS	bytecodes.h	45;"	d
+vmMACSIZE	bytecodes.h	70;"	d
+vmMAX_VALID_TYPE	bytecodes.h	79;"	d
+vmMEMORY_FOLDER	bytecodes.h	83;"	d
+vmNAMESIZE	bytecodes.h	67;"	d
+vmOUTPUTS	bytecodes.h	42;"	d
+vmPATHSIZE	bytecodes.h	66;"	d
+vmPOP3_ABS_WARN_ICON_X	bytecodes.h	1628;"	d
+vmPOP3_ABS_WARN_ICON_X1	bytecodes.h	1629;"	d
+vmPOP3_ABS_WARN_ICON_X2	bytecodes.h	1630;"	d
+vmPOP3_ABS_WARN_ICON_X3	bytecodes.h	1631;"	d
+vmPOP3_ABS_WARN_ICON_Y	bytecodes.h	1632;"	d
+vmPOP3_ABS_WARN_LINE_ENDX	bytecodes.h	1641;"	d
+vmPOP3_ABS_WARN_LINE_X	bytecodes.h	1639;"	d
+vmPOP3_ABS_WARN_LINE_Y	bytecodes.h	1640;"	d
+vmPOP3_ABS_WARN_SPEC_ICON_X	bytecodes.h	1633;"	d
+vmPOP3_ABS_WARN_SPEC_ICON_Y	bytecodes.h	1634;"	d
+vmPOP3_ABS_WARN_TEXT_X	bytecodes.h	1635;"	d
+vmPOP3_ABS_WARN_TEXT_Y	bytecodes.h	1636;"	d
+vmPOP3_ABS_WARN_YES_X	bytecodes.h	1637;"	d
+vmPOP3_ABS_WARN_YES_Y	bytecodes.h	1638;"	d
+vmPOP3_ABS_X	bytecodes.h	1625;"	d
+vmPOP3_ABS_Y	bytecodes.h	1626;"	d
+vmPRJS_DIR	bytecodes.h	89;"	d
+vmPROGRAM_FOLDER	bytecodes.h	84;"	d
+vmPULSE_BROWSER	bytecodes.h	154;"	d
+vmPULSE_GUI_BACKGROUND	bytecodes.h	153;"	d
+vmPULSE_KEY	bytecodes.h	155;"	d
+vmSDCARD_FOLDER	bytecodes.h	86;"	d
+vmSETTINGS_DIR	bytecodes.h	94;"	d
+vmSLEEP_FILE_NAME	bytecodes.h	105;"	d
+vmTMP_DIR	bytecodes.h	92;"	d
+vmTOOLS_DIR	bytecodes.h	91;"	d
+vmTOPLINE_HEIGHT	bytecodes.h	49;"	d
+vmUSBSTICK_FOLDER	bytecodes.h	87;"	d
+vmVOLUME_FILE_NAME	bytecodes.h	106;"	d
+vmWIFIPASSKEYSIZE	bytecodes.h	125;"	d
+vmWIFI_FILE_NAME	bytecodes.h	107;"	d
+~Pattern	line.cpp	/^	~Pattern(){$/;"	f	class:Pattern
+~Pattern	main.cpp	/^	~Pattern(){$/;"	f	class:Pattern
